@@ -4,6 +4,7 @@ name: Update Bengali Podcasts
 on:
   workflow_dispatch:
   schedule:
+    # Every Sunday at 02:20 UTC (08:20 Bangladesh time)
     - cron: "20 2 * * 0"
 
 permissions:
@@ -11,10 +12,11 @@ permissions:
 
 jobs:
   update:
+    name: Update Podcast Catalog
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -31,35 +33,135 @@ jobs:
       - name: Build story rotation
         run: python scripts/build_story_rotation.py
 
-      - name: Validate generated catalogs
+      - name: Build ESP32 podcast pages
+        run: python scripts/build_podcast_pages.py
+
+      - name: Validate generated catalogs and pages
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
 
           base = Path("data")
-          main = json.loads((base / "podcasts.json").read_text())
-          nav = json.loads((base / "podcast_navigation.json").read_text())
-          rotation = json.loads((base / "podcast_story_rotation.json").read_text())
+
+          main = json.loads(
+              (base / "podcasts.json").read_text(encoding="utf-8")
+          )
+
+          nav = json.loads(
+              (base / "podcast_navigation.json").read_text(encoding="utf-8")
+          )
+
+          rotation = json.loads(
+              (base / "podcast_story_rotation.json").read_text(encoding="utf-8")
+          )
+
+          episodes = rotation["episodes"]
+          total = len(episodes)
 
           assert main["total"] == len(main["episodes"])
           assert nav["total_episodes"] == len(nav["episodes"])
-          assert rotation["total"] == len(rotation["episodes"])
-          assert rotation["total"] == main["total"]
+          assert rotation["total"] == total
+          assert main["total"] == total
 
           required = {
               "sunday_suspense",
               "221b_harrison_road",
               "roll_sound_goppo",
           }
-          found = {e["source"] for e in rotation["episodes"]}
+
+          found = {ep["source"] for ep in episodes}
           assert required <= found, f"Missing sources: {required - found}"
 
-          print("CATALOG AND ROTATION BUILD PASS")
-          print("Total episodes:", rotation["total"])
+          ids = [ep["id"] for ep in episodes]
+          assert len(ids) == len(set(ids)), "Duplicate episode IDs"
+
+          # Validate multipart and story rotation continuity
+          for i, ep in enumerate(episodes):
+              next_id = (
+                  ep.get("next_episode_id")
+                  or ep.get("next_story_id")
+              )
+
+              expected = (
+                  episodes[i + 1]["id"]
+                  if i + 1 < total
+                  else None
+              )
+
+              assert (next_id or None) == expected, (
+                  f"Broken rotation: {ep['id']}"
+              )
+
+              if i + 1 < total:
+                  nxt = episodes[i + 1]
+
+                  if ep["story_id"] == nxt["story_id"]:
+                      assert ep.get("next_episode_id") == nxt["id"], (
+                          f"Broken multipart link: {ep['id']}"
+                      )
+
+          # Validate ESP32 page catalog
+          page_dir = base / "podcast_pages"
+          assert page_dir.is_dir(), "Podcast pages missing"
+
+          page_size = 4
+          expected_pages = (total + page_size - 1) // page_size
+
+          files = sorted(page_dir.glob("*.json"))
+
+          assert len(files) == expected_pages, (
+              f"Expected {expected_pages} pages, found {len(files)}"
+          )
+
+          collected_ids = []
+
+          for page_number in range(expected_pages):
+              path = page_dir / f"{page_number:03d}.json"
+
+              assert path.exists(), f"Missing page: {path}"
+
+              raw = path.read_bytes()
+              assert len(raw) <= 4096, f"Page too large: {path}"
+
+              page = json.loads(raw.decode("utf-8"))
+
+              assert page["v"] == 1
+              assert page["total"] == total
+              assert page["size"] == page_size
+              assert page["page"] == page_number
+              assert page["pages"] == expected_pages
+
+              items = page["items"]
+
+              assert len(items) == min(
+                  page_size, total - page_number * page_size
+              )
+
+              for offset, item in enumerate(items):
+                  index = page_number * page_size + offset
+
+                  assert item["i"] == index
+                  assert item["id"] == episodes[index]["id"]
+                  assert item["url"].startswith("https://")
+
+                  collected_ids.append(item["id"])
+
+          assert collected_ids == ids, "Page ordering mismatch"
+
+          print("PODCAST RSS CATALOG PASS")
+          print("STORY ROTATION PASS")
+          print("MULTIPART CONTINUITY PASS")
+          print("ESP32 PAGINATION PASS")
+          print("Total episodes:", total)
+          print("Total stories:", rotation["total_stories"])
+          print("Total pages:", expected_pages)
+          print("Sources:", sorted(found))
+          print("MISSING EPISODES: 0")
+          print("CATALOG BUILD PASS")
           PY
 
-      - name: Commit generated catalogs
+      - name: Commit generated catalogs and pages
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -67,8 +169,18 @@ jobs:
           git add data/podcasts.json
           git add data/podcast_navigation.json
           git add data/podcast_story_rotation.json
+          git add -A data/podcast_pages
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh podcast navigation and rotation"
+            git commit -m "chore: refresh podcasts, rotation and ESP32 pages"
             git push
+          else
+            echo "No catalog changes detected."
           fi
+
+      - name: Final status
+        run: |
+          echo "PODCAST AUTOMATION SUCCESS"
+          echo "Weekly refresh enabled"
+          echo "ESP32 paged catalog generated"
+          echo "No firmware update required for catalog refresh"
