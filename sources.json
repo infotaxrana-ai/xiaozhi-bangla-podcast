@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "sunday_suspense",
+      "name": "Sunday Suspense",
+      "category": "horror",
+      "rss": "https://feeds.redcircle.com/1f4fef7c-a4c0-4226-b2c7-da585fb1577f",
+      "enabled": true,
+      "verified_for_esp32": false
+    },
+    {
+      "id": "bhoot_fm",
+      "name": "Bhoot FM",
+      "category": "horror",
+      "rss": "",
+      "enabled": false,
+      "verified_for_esp32": false
+    },
+    {
+      "id": "bhoy",
+      "name": "Bhoy",
+      "category": "horror",
+      "rss": "",
+      "enabled": false,
+      "verified_for_esp32": false
+    },
+    {
+      "id": "life_stories",
+      "name": "Bengali Life Stories",
+      "category": "life_story",
+      "rss": "",
+      "enabled": false,
+      "verified_for_esp32": false
+    }
+  ]
+}
