@@ -1,3 +1,4 @@
+
 {
   "schema_version": 1,
   "sources": [
@@ -6,6 +7,22 @@
       "name": "Sunday Suspense",
       "category": "horror",
       "rss": "https://feeds.redcircle.com/1f4fef7c-a4c0-4226-b2c7-da585fb1577f",
+      "enabled": true,
+      "verified_for_esp32": false
+    },
+    {
+      "id": "221b_harrison_road",
+      "name": "221B Harrison Road Bengali Audio Story",
+      "category": "horror",
+      "rss": "https://anchor.fm/s/d752fad0/podcast/rss",
+      "enabled": true,
+      "verified_for_esp32": false
+    },
+    {
+      "id": "roll_sound_goppo",
+      "name": "Roll Sound: Goppo (Bengali Audio Stories)",
+      "category": "horror",
+      "rss": "https://anchor.fm/s/101ce3cd4/podcast/rss",
       "enabled": true,
       "verified_for_esp32": false
     },
