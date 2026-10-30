@@ -1,3 +1,4 @@
+
 name: Update Bengali Podcasts
 
 on:
@@ -11,6 +12,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,12 +25,50 @@ jobs:
       - name: Update podcast catalog
         run: python scripts/update_podcasts.py
 
-      - name: Commit catalog
+      - name: Build story navigation
+        run: python scripts/build_podcast_navigation.py
+
+      - name: Build story rotation
+        run: python scripts/build_story_rotation.py
+
+      - name: Validate generated catalogs
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          base = Path("data")
+          main = json.loads((base / "podcasts.json").read_text())
+          nav = json.loads((base / "podcast_navigation.json").read_text())
+          rotation = json.loads((base / "podcast_story_rotation.json").read_text())
+
+          assert main["total"] == len(main["episodes"])
+          assert nav["total_episodes"] == len(nav["episodes"])
+          assert rotation["total"] == len(rotation["episodes"])
+          assert rotation["total"] == main["total"]
+
+          required = {
+              "sunday_suspense",
+              "221b_harrison_road",
+              "roll_sound_goppo",
+          }
+          found = {e["source"] for e in rotation["episodes"]}
+          assert required <= found, f"Missing sources: {required - found}"
+
+          print("CATALOG AND ROTATION BUILD PASS")
+          print("Total episodes:", rotation["total"])
+          PY
+
+      - name: Commit generated catalogs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/podcasts.json
+          git add data/podcast_navigation.json
+          git add data/podcast_story_rotation.json
+
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh podcast catalog"
+            git commit -m "chore: refresh podcast navigation and rotation"
             git push
           fi
