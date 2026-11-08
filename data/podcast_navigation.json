@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "mode": "podcast",
-  "total_episodes": 279,
-  "total_stories": 233,
+  "total_episodes": 280,
+  "total_stories": 234,
   "navigation": {
     "next_episode": "same_story_next_part_only",
     "next_story": "next_distinct_story",
@@ -1211,7 +1211,31 @@
     },
     {
       "id": "221b_harrison_road_1",
-      "story_id": "59511d99cf004cfd",
+      "story_id": "ac1c2d5a6d190f95",
+      "story_title": "Tetul Gacher Jin | Bengali Audio Story | Horror Story",
+      "title": "Tetul Gacher Jin | Bengali Audio Story | Horror Story",
+      "category": "horror",
+      "source": "221b_harrison_road",
+      "part_number": null,
+      "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/128978295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F436128882-44100-2-cf3f4cfadfc358.mp3",
+      "next_episode_id": null,
+      "next_story_id": "221b_harrison_road_2"
+    },
+    {
+      "id": "221b_harrison_road_2",
+      "story_id": "5c43f19a552bbdf1",
+      "story_title": "Sundarban er Gobhire | Bengali Audio Story | Horror Story",
+      "title": "Sundarban er Gobhire | Bengali Audio Story | Horror Story",
+      "category": "horror",
+      "source": "221b_harrison_road",
+      "part_number": null,
+      "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/128748642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435837653-44100-2-67f9231f429a8.mp3",
+      "next_episode_id": null,
+      "next_story_id": "221b_harrison_road_3"
+    },
+    {
+      "id": "221b_harrison_road_3",
+      "story_id": "4ed09def42aebd9a",
       "story_title": "2 Ghontar Jhor Bristir Bhuter Golpo | Bengali Audio Story | Horror Story",
       "title": "2 Ghontar Jhor Bristir Bhuter Golpo | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1219,11 +1243,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/128483537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-31%2F435497844-44100-2-cab9a438ffae7.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_2"
+      "next_story_id": "221b_harrison_road_4"
     },
     {
-      "id": "221b_harrison_road_2",
-      "story_id": "0636bd1be02a7b0d",
+      "id": "221b_harrison_road_4",
+      "story_id": "c291bf8ad0eb3a8d",
       "story_title": "Jungle er Ararle | Bengali Audio Story | Gram Banglar Bhuter Golpo",
       "title": "Jungle er Ararle | Bengali Audio Story | Gram Banglar Bhuter Golpo",
       "category": "horror",
@@ -1231,11 +1255,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/128035239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434926094-44100-2-111aa291be28.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_3"
+      "next_story_id": "221b_harrison_road_5"
     },
     {
-      "id": "221b_harrison_road_3",
-      "story_id": "2fcf90f14f99a515",
+      "id": "221b_harrison_road_5",
+      "story_id": "8905ff28571d1aae",
       "story_title": "Gorponchokoter Pret | Bengali Audio Story | Gram Banglar Bhuter Golpo",
       "title": "Gorponchokoter Pret | Bengali Audio Story | Gram Banglar Bhuter Golpo",
       "category": "horror",
@@ -1243,11 +1267,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/127939774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434800772-44100-2-171e0a22d69c.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_4"
+      "next_story_id": "221b_harrison_road_6"
     },
     {
-      "id": "221b_harrison_road_4",
-      "story_id": "34b29b484b4188df",
+      "id": "221b_harrison_road_6",
+      "story_id": "1bf9fca27855a50e",
       "story_title": "Banglar Dakater Golpo | Bengali Audio Story | Classic Story",
       "title": "Banglar Dakater Golpo | Bengali Audio Story | Classic Story",
       "category": "horror",
@@ -1255,11 +1279,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/127384094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434048423-44100-2-c9f1ae332839b.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_5"
+      "next_story_id": "221b_harrison_road_7"
     },
     {
-      "id": "221b_harrison_road_5",
-      "story_id": "2d0aa9fc437f46d5",
+      "id": "221b_harrison_road_7",
+      "story_id": "b98c207b8a0d7909",
       "story_title": "Raat 12:05 er Katwa Local | Gram Banglar Bhuter Golpo | Bhuter Golpo",
       "title": "Raat 12:05 er Katwa Local | Gram Banglar Bhuter Golpo | Bhuter Golpo",
       "category": "horror",
@@ -1267,11 +1291,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/127005937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433561702-44100-2-9058cd652eb91.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_6"
+      "next_story_id": "221b_harrison_road_8"
     },
     {
-      "id": "221b_harrison_road_6",
-      "story_id": "3a87476903a6de95",
+      "id": "221b_harrison_road_8",
+      "story_id": "7fa515beef090228",
       "story_title": "Kala Jadur Kobole | Gram Banglar Bhuter Golpo | Bhuter Golpo",
       "title": "Kala Jadur Kobole | Gram Banglar Bhuter Golpo | Bhuter Golpo",
       "category": "horror",
@@ -1279,11 +1303,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/126796419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F433299918-44100-2-17f1691a0321b.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_7"
+      "next_story_id": "221b_harrison_road_9"
     },
     {
-      "id": "221b_harrison_road_7",
-      "story_id": "d3b1b978dc1db6fb",
+      "id": "221b_harrison_road_9",
+      "story_id": "0e2d5d02ce131561",
       "story_title": "Badla Bill er Bipod | Gram Banglar Bhuter Golpo | Horror Story",
       "title": "Badla Bill er Bipod | Gram Banglar Bhuter Golpo | Horror Story",
       "category": "horror",
@@ -1291,11 +1315,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/126620736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433074463-44100-2-1384824ebf4e5.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_8"
+      "next_story_id": "221b_harrison_road_10"
     },
     {
-      "id": "221b_harrison_road_8",
-      "story_id": "c09e0a6667edb619",
+      "id": "221b_harrison_road_10",
+      "story_id": "e80c6bd52e458caa",
       "story_title": "Bibhutibhushan Oloukik | Bangla Bhuter Golpo",
       "title": "Bibhutibhushan Oloukik | Bangla Bhuter Golpo",
       "category": "horror",
@@ -1303,11 +1327,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/126329066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F432695759-44100-2-fbf140145b5d6.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_9"
+      "next_story_id": "221b_harrison_road_11"
     },
     {
-      "id": "221b_harrison_road_9",
-      "story_id": "f0f551e83c1752e4",
+      "id": "221b_harrison_road_11",
+      "story_id": "a7d84e8dc04a3dd1",
       "story_title": "Bristi Raater Bipod | Gram Banglar Bhuter Golpo | Horror Story | Audiobook",
       "title": "Bristi Raater Bipod | Gram Banglar Bhuter Golpo | Horror Story | Audiobook",
       "category": "horror",
@@ -1315,11 +1339,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/126032338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432293691-44100-2-ba14d36be0dca.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_10"
+      "next_story_id": "221b_harrison_road_12"
     },
     {
-      "id": "221b_harrison_road_10",
-      "story_id": "dc45d2c9ee56de25",
+      "id": "221b_harrison_road_12",
+      "story_id": "e407f4727152bd62",
       "story_title": "Gobhir raat er Cycle | Bengali Audio Story | Horror Story",
       "title": "Gobhir raat er Cycle | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1327,11 +1351,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/125873091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432083591-44100-2-2fd0a0521a5a9.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_11"
+      "next_story_id": "221b_harrison_road_13"
     },
     {
-      "id": "221b_harrison_road_11",
-      "story_id": "2588d094f33e0176",
+      "id": "221b_harrison_road_13",
+      "story_id": "b028ab5e9347ab14",
       "story_title": "Bodh Kapaliker Pret | Bengali Audio Story | Horror Story",
       "title": "Bodh Kapaliker Pret | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1339,11 +1363,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/125658895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2F431786333-44100-2-c0d72bb838eb4.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_12"
+      "next_story_id": "221b_harrison_road_14"
     },
     {
-      "id": "221b_harrison_road_12",
-      "story_id": "6f571a51cd4b77a6",
+      "id": "221b_harrison_road_14",
+      "story_id": "54a6726a7adff638",
       "story_title": "Siuli Gramer Roktochosha | Bengali Audio Story | Horror Story",
       "title": "Siuli Gramer Roktochosha | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1351,11 +1375,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/125393637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431437866-44100-2-0f52e65e7b691.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_13"
+      "next_story_id": "221b_harrison_road_15"
     },
     {
-      "id": "221b_harrison_road_13",
-      "story_id": "1b3010e237a578e5",
+      "id": "221b_harrison_road_15",
+      "story_id": "3e4413d3632d6fa3",
       "story_title": "Raat 12tar Bhuture Bus | Bengali Audio Story | Horror Story",
       "title": "Raat 12tar Bhuture Bus | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1363,11 +1387,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/125147182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431104941-44100-2-098dc0653ccfc.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_14"
+      "next_story_id": "221b_harrison_road_16"
     },
     {
-      "id": "221b_harrison_road_14",
-      "story_id": "3b544d4f29570253",
+      "id": "221b_harrison_road_16",
+      "story_id": "dd2e27eb3fdce6d4",
       "story_title": "Shibtala Soshan er Pagli | Gram Banglar Bhuter Golpo | Bengali Audio Story | Horror Story",
       "title": "Shibtala Soshan er Pagli | Gram Banglar Bhuter Golpo | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1375,11 +1399,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/124849393/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F430700044-44100-2-245f2d52570cc.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_15"
+      "next_story_id": "221b_harrison_road_17"
     },
     {
-      "id": "221b_harrison_road_15",
-      "story_id": "ce1607809acb7eac",
+      "id": "221b_harrison_road_17",
+      "story_id": "c55e1e478ce03d90",
       "story_title": "Jhorer Raat e Sundorbon | Bengali Audio Story | Horror Story",
       "title": "Jhorer Raat e Sundorbon | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1387,11 +1411,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/124571774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2F430318349-44100-2-f9ac6992dc8b3.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_16"
+      "next_story_id": "221b_harrison_road_18"
     },
     {
-      "id": "221b_harrison_road_16",
-      "story_id": "e13ce087974de28b",
+      "id": "221b_harrison_road_18",
+      "story_id": "53f394ed42addcf4",
       "story_title": "Bilpur Gramer Pretatma | Bengali Audio Story | Horror Story",
       "title": "Bilpur Gramer Pretatma | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1399,11 +1423,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/124392881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F430073536-44100-2-db33c8e52b14e.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_17"
+      "next_story_id": "221b_harrison_road_19"
     },
     {
-      "id": "221b_harrison_road_17",
-      "story_id": "94a9edc3a415a025",
+      "id": "221b_harrison_road_19",
+      "story_id": "812be9bb2a5adf9d",
       "story_title": "Kalboishakir Bhoyanok Raat | Gram Banglar Bhuter Golpo | Horror Story",
       "title": "Kalboishakir Bhoyanok Raat | Gram Banglar Bhuter Golpo | Horror Story",
       "category": "horror",
@@ -1411,11 +1435,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/124171236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-13%2F429772435-44100-2-a205565022eef.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_18"
+      "next_story_id": "221b_harrison_road_20"
     },
     {
-      "id": "221b_harrison_road_18",
-      "story_id": "927c4e57ce39a05c",
+      "id": "221b_harrison_road_20",
+      "story_id": "88b45712915451c2",
       "story_title": "Huduganj er Bhuture Rasta | Bengali Audio Story | Horror Story",
       "title": "Huduganj er Bhuture Rasta | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1423,11 +1447,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/123977932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-9%2F429506734-44100-2-37de1683a4ef2.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_19"
+      "next_story_id": "221b_harrison_road_21"
     },
     {
-      "id": "221b_harrison_road_19",
-      "story_id": "396451202746f17e",
+      "id": "221b_harrison_road_21",
+      "story_id": "a1fb04b1effe5a6f",
       "story_title": "Gobhir Raat e Pret er Bhor | Bengali Audio Story | Horror Story",
       "title": "Gobhir Raat e Pret er Bhor | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1435,11 +1459,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/123755012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429199182-44100-2-eaed94477bf89.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_20"
+      "next_story_id": "221b_harrison_road_22"
     },
     {
-      "id": "221b_harrison_road_20",
-      "story_id": "9e4e7da643587eb1",
+      "id": "221b_harrison_road_22",
+      "story_id": "8641c7a458608bab",
       "story_title": "Nanigonj er Kalo Chaya | Bengali Audio Story | Horror Story",
       "title": "Nanigonj er Kalo Chaya | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1447,11 +1471,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/123585035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F428974271-44100-2-2ee2463f2951.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_21"
+      "next_story_id": "221b_harrison_road_23"
     },
     {
-      "id": "221b_harrison_road_21",
-      "story_id": "1b066ffb4dec47dc",
+      "id": "221b_harrison_road_23",
+      "story_id": "526fd9c0702f597d",
       "story_title": "Raat 10 tar Local | Bengali Audio Story | Horror Story",
       "title": "Raat 10 tar Local | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1459,11 +1483,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/123344005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-26%2F428646626-44100-2-db07c370dfc01.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_22"
+      "next_story_id": "221b_harrison_road_24"
     },
     {
-      "id": "221b_harrison_road_22",
-      "story_id": "a077ea576b54c054",
+      "id": "221b_harrison_road_24",
+      "story_id": "27c9d1502b4fd93a",
       "story_title": "Jola Petnir Nojore | Bengali Audio Story | Horror Story",
       "title": "Jola Petnir Nojore | Bengali Audio Story | Horror Story",
       "category": "horror",
@@ -1471,11 +1495,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/123267615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428544834-44100-2-a1557175c519a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_23"
+      "next_story_id": "221b_harrison_road_25"
     },
     {
-      "id": "221b_harrison_road_23",
-      "story_id": "3d7509ee41a490f9",
+      "id": "221b_harrison_road_25",
+      "story_id": "ca879621e0208af7",
       "story_title": "Andaler Bhuture Bari | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "title": "Andaler Bhuture Bari | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "category": "horror",
@@ -1483,11 +1507,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/123001742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-18%2F428184609-44100-2-aec0e03d40cba.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_24"
+      "next_story_id": "221b_harrison_road_26"
     },
     {
-      "id": "221b_harrison_road_24",
-      "story_id": "908e2a348f453009",
+      "id": "221b_harrison_road_26",
+      "story_id": "bda45df66215bf88",
       "story_title": "Adhar Raater Poro Mandir | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "title": "Adhar Raater Poro Mandir | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "category": "horror",
@@ -1495,11 +1519,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/122811988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427926420-44100-2-cd08660ba9996.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_25"
+      "next_story_id": "221b_harrison_road_27"
     },
     {
-      "id": "221b_harrison_road_25",
-      "story_id": "5004aede0507dc67",
+      "id": "221b_harrison_road_27",
+      "story_id": "b30a312777f4d085",
       "story_title": "Shree Shree Siddheshwari Limited | Rajshekhar Basu (Parashuram) | Bengali Audiobook",
       "title": "Shree Shree Siddheshwari Limited | Rajshekhar Basu (Parashuram) | Bengali Audiobook",
       "category": "horror",
@@ -1507,11 +1531,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/122685290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2F427758653-44100-2-7bfb453535f9a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_26"
+      "next_story_id": "221b_harrison_road_28"
     },
     {
-      "id": "221b_harrison_road_26",
-      "story_id": "e3b25461caf4868d",
+      "id": "221b_harrison_road_28",
+      "story_id": "da071327111e4491",
       "story_title": "Badla Rater Hotel | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "title": "Badla Rater Hotel | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "category": "horror",
@@ -1519,11 +1543,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/122606782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F427653153-44100-2-fc5fde9c2c39d.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_27"
+      "next_story_id": "221b_harrison_road_29"
     },
     {
-      "id": "221b_harrison_road_27",
-      "story_id": "d6bf7ec916ec21b6",
+      "id": "221b_harrison_road_29",
+      "story_id": "87c712f440b0c0c8",
       "story_title": "Faka Ghorer Sobdota | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "title": "Faka Ghorer Sobdota | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "category": "horror",
@@ -1531,11 +1555,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/122330128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2F427281206-44100-2-d6c49ff47b15b.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_28"
+      "next_story_id": "221b_harrison_road_30"
     },
     {
-      "id": "221b_harrison_road_28",
-      "story_id": "68b6a0216a2fe7a6",
+      "id": "221b_harrison_road_30",
+      "story_id": "85cfe2dbd6f52bd4",
       "story_title": "North Bengal er Bhoyer Raat | Bengali horror Story | Horror Podcast | Bhuter Golpo",
       "title": "North Bengal er Bhoyer Raat | Bengali horror Story | Horror Podcast | Bhuter Golpo",
       "category": "horror",
@@ -1543,11 +1567,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/122057441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F59448247-d4b8-d248-9a5b-b95c47e4957a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_29"
+      "next_story_id": "221b_harrison_road_31"
     },
     {
-      "id": "221b_harrison_road_29",
-      "story_id": "eb0fc5ae3665251b",
+      "id": "221b_harrison_road_31",
+      "story_id": "6e919816784d3c4f",
       "story_title": "Kamalpurer Pret er Dak | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "title": "Kamalpurer Pret er Dak | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "category": "horror",
@@ -1555,11 +1579,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/121822102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-22%2F426598192-44100-2-76ca9fa54be2f.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_30"
+      "next_story_id": "221b_harrison_road_32"
     },
     {
-      "id": "221b_harrison_road_30",
-      "story_id": "ef4d78e001c66c60",
+      "id": "221b_harrison_road_32",
+      "story_id": "daad0957cdfc6565",
       "story_title": "Howrah True Horror Case | Real Horror Story | Sotyi Bhuter Ghotona | Real Ghost | True Horror | Scary | Paranormal",
       "title": "Howrah True Horror Case | Real Horror Story | Sotyi Bhuter Ghotona | Real Ghost | True Horror | Scary | Paranormal",
       "category": "horror",
@@ -1567,11 +1591,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/121650347/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F426371581-44100-2-26bb464fc8a6e.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_31"
+      "next_story_id": "221b_harrison_road_33"
     },
     {
-      "id": "221b_harrison_road_31",
-      "story_id": "d4e98a1cafa60e7b",
+      "id": "221b_harrison_road_33",
+      "story_id": "936a75e0d2c4c0cb",
       "story_title": "Medinipurer Bhuture Gram | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "title": "Medinipurer Bhuture Gram | Bengali Horror Story | Bhuter Golpo | 221B Harrison Road",
       "category": "horror",
@@ -1579,11 +1603,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/121597979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426301140-44100-2-b1fabd89d4b34.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_32"
+      "next_story_id": "221b_harrison_road_34"
     },
     {
-      "id": "221b_harrison_road_32",
-      "story_id": "6c56628a84b0901f",
+      "id": "221b_harrison_road_34",
+      "story_id": "bf25690560154339",
       "story_title": "Morar Kobole | Bhuter Golpo | Bengali Horror Story",
       "title": "Morar Kobole | Bhuter Golpo | Bengali Horror Story",
       "category": "horror",
@@ -1591,11 +1615,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/121427339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-13%2F426072409-44100-2-0c513bace7c9c.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_33"
+      "next_story_id": "221b_harrison_road_35"
     },
     {
-      "id": "221b_harrison_road_33",
-      "story_id": "e47325d47d86afa4",
+      "id": "221b_harrison_road_35",
+      "story_id": "4aa8c7015e048e71",
       "story_title": "Katpoler Dakini | Horror Story | Horror Podcast | Scary",
       "title": "Katpoler Dakini | Horror Story | Horror Podcast | Scary",
       "category": "horror",
@@ -1603,11 +1627,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/121279671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-10%2F425874738-44100-2-69f9b8f726e12.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_34"
+      "next_story_id": "221b_harrison_road_36"
     },
     {
-      "id": "221b_harrison_road_34",
-      "story_id": "593cc807dfe8f407",
+      "id": "221b_harrison_road_36",
+      "story_id": "a9f9dfda9457b5b0",
       "story_title": "Nijhum Raater Songi | Bengali Horror Story | Horror Story",
       "title": "Nijhum Raater Songi | Bengali Horror Story | Horror Story",
       "category": "horror",
@@ -1615,11 +1639,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/121079462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-6%2F425608959-44100-2-8977d75fb4be6.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_35"
+      "next_story_id": "221b_harrison_road_37"
     },
     {
-      "id": "221b_harrison_road_35",
-      "story_id": "2c44dd571f8d7a75",
+      "id": "221b_harrison_road_37",
+      "story_id": "f888ba8762cf3073",
       "story_title": "Kuasha Raater Chayamurti | Bengali Horror Story | 221B Harrison Road",
       "title": "Kuasha Raater Chayamurti | Bengali Horror Story | 221B Harrison Road",
       "category": "horror",
@@ -1627,11 +1651,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/120895600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425361457-44100-2-c3d228f112e23.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_36"
+      "next_story_id": "221b_harrison_road_38"
     },
     {
-      "id": "221b_harrison_road_36",
-      "story_id": "9d2a41d42577ae2f",
+      "id": "221b_harrison_road_38",
+      "story_id": "ca34b4e6e3dcfcef",
       "story_title": "Raat 3ter Ondhor Rasta | Bengali Horror Podcast | Horror Story | Bhuter Golpo",
       "title": "Raat 3ter Ondhor Rasta | Bengali Horror Podcast | Horror Story | Bhuter Golpo",
       "category": "horror",
@@ -1639,11 +1663,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/120670196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425060602-44100-2-f9a79890af88f.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_37"
+      "next_story_id": "221b_harrison_road_39"
     },
     {
-      "id": "221b_harrison_road_37",
-      "story_id": "a6ac7bb18c57123d",
+      "id": "221b_harrison_road_39",
+      "story_id": "69581c674f0f5df0",
       "story_title": "Raat 12tar Por | Bengali Horror Story | Horror Podcast | Bhuter Golpo",
       "title": "Raat 12tar Por | Bengali Horror Story | Horror Podcast | Bhuter Golpo",
       "category": "horror",
@@ -1651,11 +1675,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/120498934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-25%2F424831312-44100-2-8fec66b349272.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_38"
+      "next_story_id": "221b_harrison_road_40"
     },
     {
-      "id": "221b_harrison_road_38",
-      "story_id": "a4d3cc54e3face29",
+      "id": "221b_harrison_road_40",
+      "story_id": "7990a821db3484e8",
       "story_title": "Pora Ghorer Sobo | Bengali Horror Story | Horror Podcast | Bhuter Golpo",
       "title": "Pora Ghorer Sobo | Bengali Horror Story | Horror Podcast | Bhuter Golpo",
       "category": "horror",
@@ -1663,11 +1687,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/120373700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-22%2F424668129-44100-2-4b8b7342a538e.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_39"
+      "next_story_id": "221b_harrison_road_41"
     },
     {
-      "id": "221b_harrison_road_39",
-      "story_id": "5a9c4ef1e914c8e0",
+      "id": "221b_harrison_road_41",
+      "story_id": "7a1e0a5853ddb794",
       "story_title": "Bhuture Barite Ek Raat | Bengali Horror Story | Scary Story",
       "title": "Bhuture Barite Ek Raat | Bengali Horror Story | Scary Story",
       "category": "horror",
@@ -1675,11 +1699,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/120164652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-18%2F424386193-44100-2-b1803b4767b4f.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_40"
+      "next_story_id": "221b_harrison_road_42"
     },
     {
-      "id": "221b_harrison_road_40",
-      "story_id": "76994a2e379b5cf2",
+      "id": "221b_harrison_road_42",
+      "story_id": "b99ceed8821137aa",
       "story_title": "Bhuture Park er Oshoriri | Bhuter Golpo | Horror Story",
       "title": "Bhuture Park er Oshoriri | Bhuter Golpo | Horror Story",
       "category": "horror",
@@ -1687,11 +1711,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/120022054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424196376-44100-2-19087c70ab364.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_41"
+      "next_story_id": "221b_harrison_road_43"
     },
     {
-      "id": "221b_harrison_road_41",
-      "story_id": "08fe51cc0d904acd",
+      "id": "221b_harrison_road_43",
+      "story_id": "b991d6af6de8ea0d",
       "story_title": "Hooghly r Sotyi Bhuter Ghotona | True Horror Story | Horror Podcast",
       "title": "Hooghly r Sotyi Bhuter Ghotona | True Horror Story | Horror Podcast",
       "category": "horror",
@@ -1699,23 +1723,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119913079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-13%2F424049534-44100-2-0217a7e781234.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_42"
+      "next_story_id": "221b_harrison_road_44"
     },
     {
-      "id": "221b_harrison_road_42",
-      "story_id": "18b1580fd7703389",
-      "story_title": "Panchamundi Asan er Bhoyonkor Rohoshyo | Bengali Horror Story",
-      "title": "Panchamundi Asan er Bhoyonkor Rohoshyo | Bengali Horror Story",
-      "category": "horror",
-      "source": "221b_harrison_road",
-      "part_number": null,
-      "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119803473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F423903144-44100-2-b8adf2be0b549.mp3",
-      "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_43"
-    },
-    {
-      "id": "221b_harrison_road_43",
-      "story_id": "0cab61f1f06de22a",
+      "id": "221b_harrison_road_44",
+      "story_id": "98d8f8eabf2c6a95",
       "story_title": "Elokeshi o Kalachand | Horror Story",
       "title": "Elokeshi o Kalachand | Horror Story",
       "category": "horror",
@@ -1723,11 +1735,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119697413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-8%2F423761598-44100-2-b73dc4b68d898.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_44"
+      "next_story_id": "221b_harrison_road_45"
     },
     {
-      "id": "221b_harrison_road_44",
-      "story_id": "d995772a79e89ae3",
+      "id": "221b_harrison_road_45",
+      "story_id": "cea320239a1c3a1e",
       "story_title": "Sondhyar Mrityu Chaya | Horror Story",
       "title": "Sondhyar Mrityu Chaya | Horror Story",
       "category": "horror",
@@ -1735,11 +1747,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119522722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423519581-44100-2-14daf897552d.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_45"
+      "next_story_id": "221b_harrison_road_46"
     },
     {
-      "id": "221b_harrison_road_45",
-      "story_id": "851b9ad75d874873",
+      "id": "221b_harrison_road_46",
+      "story_id": "22b9e018af371183",
       "story_title": "Kajol Dighir Poro Bari - Horror Story",
       "title": "Kajol Dighir Poro Bari - Horror Story",
       "category": "horror",
@@ -1747,11 +1759,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119398680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-3%2F5440b384-8604-4ac1-6e88-43caf28a9cdb.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_46"
+      "next_story_id": "221b_harrison_road_47"
     },
     {
-      "id": "221b_harrison_road_46",
-      "story_id": "c36b5ab9f57ad98f",
+      "id": "221b_harrison_road_47",
+      "story_id": "e38a525a67fdaafa",
       "story_title": "Debir Obhishap | Ek Gramer Dhongsho Golpo",
       "title": "Debir Obhishap | Ek Gramer Dhongsho Golpo",
       "category": "horror",
@@ -1759,11 +1771,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119275929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F486714c5-aaf4-489b-545a-cad79d3ce91a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_47"
+      "next_story_id": "221b_harrison_road_48"
     },
     {
-      "id": "221b_harrison_road_47",
-      "story_id": "95a7b10a11a2422f",
+      "id": "221b_harrison_road_48",
+      "story_id": "e376465e3cebb083",
       "story_title": "Ekla Ghorer Bhitor Ami Eka Chhilam Na | Psychological Horror”",
       "title": "Ekla Ghorer Bhitor Ami Eka Chhilam Na | Psychological Horror”",
       "category": "horror",
@@ -1771,11 +1783,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119170020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423035310-44100-2-d846e9b570371.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_48"
+      "next_story_id": "221b_harrison_road_49"
     },
     {
-      "id": "221b_harrison_road_48",
-      "story_id": "c06755b0f8318b9d",
+      "id": "221b_harrison_road_49",
+      "story_id": "19c55856c65b0163",
       "story_title": "Shakchunnir Sikhar | Village Horror",
       "title": "Shakchunnir Sikhar | Village Horror",
       "category": "horror",
@@ -1783,11 +1795,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/119057651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-26%2F422886047-44100-2-c57bc41cfd645.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_49"
+      "next_story_id": "221b_harrison_road_50"
     },
     {
-      "id": "221b_harrison_road_49",
-      "story_id": "893419ccdf80170b",
+      "id": "221b_harrison_road_50",
+      "story_id": "fc8de9313ed72353",
       "story_title": "Mukhosher Arale ota Ke? | Horror Story",
       "title": "Mukhosher Arale ota Ke? | Horror Story",
       "category": "horror",
@@ -1795,11 +1807,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/118736348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2F422441409-44100-2-381294241640d.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_50"
+      "next_story_id": "221b_harrison_road_51"
     },
     {
-      "id": "221b_harrison_road_50",
-      "story_id": "b8afd0bd405343fe",
+      "id": "221b_harrison_road_51",
+      "story_id": "6959501920eb9866",
       "story_title": "Talboner Bhoy | Bengali Horror Story",
       "title": "Talboner Bhoy | Bengali Horror Story",
       "category": "horror",
@@ -1807,11 +1819,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/117797696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F421197404-44100-2-2feef6bfbd9be.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_51"
+      "next_story_id": "221b_harrison_road_52"
     },
     {
-      "id": "221b_harrison_road_51",
-      "story_id": "e44b7d8d080188da",
+      "id": "221b_harrison_road_52",
+      "story_id": "77cb8e9f4dc746ed",
       "story_title": "Bhoyer Raat | Horror Story",
       "title": "Bhoyer Raat | Horror Story",
       "category": "horror",
@@ -1819,11 +1831,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/118489096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-15%2F422112031-44100-2-9558f60f4c02a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_52"
+      "next_story_id": "221b_harrison_road_53"
     },
     {
-      "id": "221b_harrison_road_52",
-      "story_id": "3bcd5777a5ec9e39",
+      "id": "221b_harrison_road_53",
+      "story_id": "362597db317ab39f",
       "story_title": "Mantra Malika | Horror Story",
       "title": "Mantra Malika | Horror Story",
       "category": "horror",
@@ -1831,11 +1843,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/117797789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F421197532-44100-2-777f200f86335.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_53"
+      "next_story_id": "221b_harrison_road_54"
     },
     {
-      "id": "221b_harrison_road_53",
-      "story_id": "22fbd5b160daf167",
+      "id": "221b_harrison_road_54",
+      "story_id": "ce216a4b81e3d2c1",
       "story_title": "Jamalpurer Pret | Horror Story",
       "title": "Jamalpurer Pret | Horror Story",
       "category": "horror",
@@ -1843,11 +1855,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/117797590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F421197228-44100-2-c579f8258f937.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_54"
+      "next_story_id": "221b_harrison_road_55"
     },
     {
-      "id": "221b_harrison_road_54",
-      "story_id": "fd7bfbbf2490b017",
+      "id": "221b_harrison_road_55",
+      "story_id": "38dbb8191741ba1e",
       "story_title": "Golashir Fash | Horror Story",
       "title": "Golashir Fash | Horror Story",
       "category": "horror",
@@ -1855,11 +1867,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/117797454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F421197128-44100-2-e39e0eadcb16c.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_55"
+      "next_story_id": "221b_harrison_road_56"
     },
     {
-      "id": "221b_harrison_road_55",
-      "story_id": "7cfc870000d76480",
+      "id": "221b_harrison_road_56",
+      "story_id": "32e7931b5072c6ad",
       "story_title": "Ferry Ghater Kanaa - Horror Story",
       "title": "Ferry Ghater Kanaa - Horror Story",
       "category": "horror",
@@ -1867,11 +1879,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/117797330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F421196896-44100-2-774b8dbc7235b.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_56"
+      "next_story_id": "221b_harrison_road_57"
     },
     {
-      "id": "221b_harrison_road_56",
-      "story_id": "c2aab0f3937c5b80",
+      "id": "221b_harrison_road_57",
+      "story_id": "ce6cbd3ddee8124a",
       "story_title": "Botgacher Konkal | Village Horror Story",
       "title": "Botgacher Konkal | Village Horror Story",
       "category": "horror",
@@ -1879,11 +1891,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/116803988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F419853975-44100-2-ef5975a6d69de.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_57"
+      "next_story_id": "221b_harrison_road_58"
     },
     {
-      "id": "221b_harrison_road_57",
-      "story_id": "762603eb70752ef6",
+      "id": "221b_harrison_road_58",
+      "story_id": "196ad91b9deeec16",
       "story_title": "Panapukurer Petni | Village horror Story",
       "title": "Panapukurer Petni | Village horror Story",
       "category": "horror",
@@ -1891,11 +1903,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/116803835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F419853742-44100-2-cbb70420802.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_58"
+      "next_story_id": "221b_harrison_road_59"
     },
     {
-      "id": "221b_harrison_road_58",
-      "story_id": "b36b969fa1f4d3c7",
+      "id": "221b_harrison_road_59",
+      "story_id": "4c28fd6da2f042d0",
       "story_title": "Ek Jhorer Raat | Village Horror Story",
       "title": "Ek Jhorer Raat | Village Horror Story",
       "category": "horror",
@@ -1903,11 +1915,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/116803689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F419853583-44100-2-f064171056d4d.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_59"
+      "next_story_id": "221b_harrison_road_60"
     },
     {
-      "id": "221b_harrison_road_59",
-      "story_id": "e8bff3628700ff3a",
+      "id": "221b_harrison_road_60",
+      "story_id": "76b8cf0b775d6fd9",
       "story_title": "Raater Kobor Khana | Village Horror Story",
       "title": "Raater Kobor Khana | Village Horror Story",
       "category": "horror",
@@ -1915,11 +1927,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/116803579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F419853411-44100-2-86638bc9d4788.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_60"
+      "next_story_id": "221b_harrison_road_61"
     },
     {
-      "id": "221b_harrison_road_60",
-      "story_id": "15c7859aba1d2084",
+      "id": "221b_harrison_road_61",
+      "story_id": "b026dc6cb41b9a60",
       "story_title": "Sundorboner arale - Village Horror Story",
       "title": "Sundorboner arale - Village Horror Story",
       "category": "horror",
@@ -1927,11 +1939,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/116803272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F419853054-44100-2-09073667dd813.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_61"
+      "next_story_id": "221b_harrison_road_62"
     },
     {
-      "id": "221b_harrison_road_61",
-      "story_id": "0f4e54c3448db395",
+      "id": "221b_harrison_road_62",
+      "story_id": "0904adf8feb7c34e",
       "story_title": "Nirjon Gramer Pothe - Village Horror Story",
       "title": "Nirjon Gramer Pothe - Village Horror Story",
       "category": "horror",
@@ -1939,10 +1951,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/116803172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F419852884-44100-2-b96ac86c23de6.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_62"
+      "next_story_id": "221b_harrison_road_63"
     },
     {
-      "id": "221b_harrison_road_62",
+      "id": "221b_harrison_road_63",
       "story_id": "fced6439624dd3cf",
       "story_title": "Jhor Bristir Ratri | Gram Banglar Bhuter Golpo",
       "title": "Jhor Bristir Ratri | Gram Banglar Bhuter Golpo | Ep 1",
@@ -1951,11 +1963,11 @@
       "part_number": 1,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/103939211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-10%2F401924137-44100-2-b9a52683e785d.m4a",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_63"
+      "next_story_id": "221b_harrison_road_64"
     },
     {
-      "id": "221b_harrison_road_63",
-      "story_id": "a26f21dbf3897891",
+      "id": "221b_harrison_road_64",
+      "story_id": "96a6ec43af273c68",
       "story_title": "Sherlock Holmes - The Mazarine Stone",
       "title": "Sherlock Holmes - The Mazarine Stone",
       "category": "horror",
@@ -1963,11 +1975,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/101607747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-22%2F398801728-44100-2-705e149965309.m4a",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_64"
+      "next_story_id": "221b_harrison_road_65"
     },
     {
-      "id": "221b_harrison_road_64",
-      "story_id": "f320f73b52a2fd66",
+      "id": "221b_harrison_road_65",
+      "story_id": "0521cc3250c0f528",
       "story_title": "Sherlock Holmes - Scandal at the Altar",
       "title": "Sherlock Holmes - Scandal at the Altar",
       "category": "horror",
@@ -1975,11 +1987,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/73498693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-17%2F2d908d45-443f-e7c5-7e38-dd318eb723b0.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_65"
+      "next_story_id": "221b_harrison_road_66"
     },
     {
-      "id": "221b_harrison_road_65",
-      "story_id": "2a50211d3363f075",
+      "id": "221b_harrison_road_66",
+      "story_id": "4630c94a72d614ef",
       "story_title": "Sherlock Holmes - The Final Problem",
       "title": "Sherlock Holmes - The Final Problem",
       "category": "horror",
@@ -1987,11 +1999,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/70824203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-22%2F330912572-44100-2-7ffe725d49efa.m4a",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_66"
+      "next_story_id": "221b_harrison_road_67"
     },
     {
-      "id": "221b_harrison_road_66",
-      "story_id": "609c3b77c81c08d6",
+      "id": "221b_harrison_road_67",
+      "story_id": "7c52ce03d98680a1",
       "story_title": "Daroga Priyonath - Morone Mukti",
       "title": "Daroga Priyonath - Morone Mukti",
       "category": "horror",
@@ -1999,11 +2011,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/67300980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-2-25%2F320257464-44100-2-971d08545644a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_67"
+      "next_story_id": "221b_harrison_road_68"
     },
     {
-      "id": "221b_harrison_road_67",
-      "story_id": "19a73b30e81476b5",
+      "id": "221b_harrison_road_68",
+      "story_id": "3f5234e0aea1615b",
       "story_title": "Sherlock Holmes - The Adventure of the Cardboard Box",
       "title": "Sherlock Holmes - The Adventure of the Cardboard Box",
       "category": "horror",
@@ -2011,11 +2023,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/66372160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F77ac47cb-7862-7bef-e034-10763eb87edc.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_68"
+      "next_story_id": "221b_harrison_road_69"
     },
     {
-      "id": "221b_harrison_road_68",
-      "story_id": "cb9bb63e00e545c2",
+      "id": "221b_harrison_road_69",
+      "story_id": "16685d3eae11987b",
       "story_title": "Sherlock Holmes - The Dying Detective",
       "title": "Sherlock Holmes - The Dying Detective",
       "category": "horror",
@@ -2023,11 +2035,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/65845499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-2%2F315653386-44100-2-667c71d483af6.m4a",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_69"
+      "next_story_id": "221b_harrison_road_70"
     },
     {
-      "id": "221b_harrison_road_69",
-      "story_id": "1c3b147fd9b70803",
+      "id": "221b_harrison_road_70",
+      "story_id": "1ed9249cae68f0bf",
       "story_title": "Sherlock Holmes - Five Orange Pips (REMASTERED)",
       "title": "Sherlock Holmes - Five Orange Pips (REMASTERED)",
       "category": "horror",
@@ -2035,11 +2047,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/65682243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315026196-44100-2-39a8c3cce5591.m4a",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_70"
+      "next_story_id": "221b_harrison_road_71"
     },
     {
-      "id": "221b_harrison_road_70",
-      "story_id": "cae7818c79d00f71",
+      "id": "221b_harrison_road_71",
+      "story_id": "5ebe145879aaf06f",
       "story_title": "Sherlock Holmes - The Disappearance of Lady Frances Carfax",
       "title": "Sherlock Holmes - The Disappearance of Lady Frances Carfax",
       "category": "horror",
@@ -2047,11 +2059,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/63853890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-22%2F308753907-44100-2-f266bf83e19fa.m4a",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_71"
+      "next_story_id": "221b_harrison_road_72"
     },
     {
-      "id": "221b_harrison_road_71",
-      "story_id": "3a8b469ebdf5f026",
+      "id": "221b_harrison_road_72",
+      "story_id": "bae30fc7e453a730",
       "story_title": "Sherlock Holmes - The Adventure of the Bruce Partington Plans",
       "title": "Sherlock Holmes - The Adventure of the Bruce Partington Plans",
       "category": "horror",
@@ -2059,11 +2071,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534039-44100-1-c78bad860e30ab20.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_72"
+      "next_story_id": "221b_harrison_road_73"
     },
     {
-      "id": "221b_harrison_road_72",
-      "story_id": "50a838f956f93cf6",
+      "id": "221b_harrison_road_73",
+      "story_id": "2586b332f92c44e9",
       "story_title": "Jayanta Manik - Firoza Mukut Rohoshyo",
       "title": "Jayanta Manik - Firoza Mukut Rohoshyo",
       "category": "horror",
@@ -2071,11 +2083,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534053-44100-1-c9d2873d8b393e1d.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_73"
+      "next_story_id": "221b_harrison_road_74"
     },
     {
-      "id": "221b_harrison_road_73",
-      "story_id": "797073f0d1f681a8",
+      "id": "221b_harrison_road_74",
+      "story_id": "91c7c756b75dc912",
       "story_title": "Hercule Poirot - The Arcadian Deer by Agatha Christie",
       "title": "Hercule Poirot - The Arcadian Deer by Agatha Christie",
       "category": "horror",
@@ -2083,11 +2095,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602453/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534042-44100-1-c17683cc3ad9095b.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_74"
+      "next_story_id": "221b_harrison_road_75"
     },
     {
-      "id": "221b_harrison_road_74",
-      "story_id": "cf7a96781c052e4c",
+      "id": "221b_harrison_road_75",
+      "story_id": "bbe883c7b4684ec5",
       "story_title": "SHERLOCK HOLMES - The Adventure of the Missing Three Quarter",
       "title": "SHERLOCK HOLMES - The Adventure of the Missing Three Quarter",
       "category": "horror",
@@ -2095,11 +2107,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534007-44100-1-81d4ffb3be4b584a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_75"
+      "next_story_id": "221b_harrison_road_76"
     },
     {
-      "id": "221b_harrison_road_75",
-      "story_id": "0ff2e493f4498472",
+      "id": "221b_harrison_road_76",
+      "story_id": "e6dc6fb1ec032513",
       "story_title": "Father Brown - The Secret Garden | Crime | 221B Harrison Road",
       "title": "Father Brown - The Secret Garden | Crime | 221B Harrison Road",
       "category": "horror",
@@ -2107,11 +2119,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534015-44100-1-084dd70eaeceba57.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_76"
+      "next_story_id": "221b_harrison_road_77"
     },
     {
-      "id": "221b_harrison_road_76",
-      "story_id": "4e8538a32d960079",
+      "id": "221b_harrison_road_77",
+      "story_id": "c6b2c1b88936b97c",
       "story_title": "Sherlock Holmes - The Adventure of the Missing Three Quarter | 221B Harrison Road",
       "title": "Sherlock Holmes - The Adventure of the Missing Three Quarter | 221B Harrison Road",
       "category": "horror",
@@ -2119,11 +2131,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540206-44100-1-5d2f6c8b239ce8e2.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_77"
+      "next_story_id": "221b_harrison_road_78"
     },
     {
-      "id": "221b_harrison_road_77",
-      "story_id": "fa673831d789fecf",
+      "id": "221b_harrison_road_78",
+      "story_id": "4774d2ca872710ba",
       "story_title": "Daroga Priyonath - Baiji | True Crime | 221B Harrison Road",
       "title": "Daroga Priyonath - Baiji | True Crime | 221B Harrison Road",
       "category": "horror",
@@ -2131,11 +2143,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534045-44100-1-ccc5de98fdd3b434.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_78"
+      "next_story_id": "221b_harrison_road_79"
     },
     {
-      "id": "221b_harrison_road_78",
-      "story_id": "92af124b86aaec25",
+      "id": "221b_harrison_road_79",
+      "story_id": "d5aebb7dcddfc813",
       "story_title": "Jim Corbett - The Mohan Man Eater",
       "title": "Jim Corbett - The Mohan Man Eater",
       "category": "horror",
@@ -2143,11 +2155,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534046-44100-1-08bd5468ab88b0ea.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_79"
+      "next_story_id": "221b_harrison_road_80"
     },
     {
-      "id": "221b_harrison_road_79",
-      "story_id": "c1dd98d1c580bcd2",
+      "id": "221b_harrison_road_80",
+      "story_id": "bcd279831c1ceee2",
       "story_title": "Sherlock Holmes -The Adventure of Solitary Cyclist",
       "title": "Sherlock Holmes -The Adventure of Solitary Cyclist",
       "category": "horror",
@@ -2155,11 +2167,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62838309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2F305228549-44100-1-a14a9ba2e2c000a4.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_80"
+      "next_story_id": "221b_harrison_road_81"
     },
     {
-      "id": "221b_harrison_road_80",
-      "story_id": "3db0cf64e1102f94",
+      "id": "221b_harrison_road_81",
+      "story_id": "e26984b42f5b9c95",
       "story_title": "Sherlock Holmes - The Adventure of the Black Peter",
       "title": "Sherlock Holmes - The Adventure of the Black Peter",
       "category": "horror",
@@ -2167,11 +2179,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534008-44100-1-8013c9530c78c36a.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_81"
+      "next_story_id": "221b_harrison_road_82"
     },
     {
-      "id": "221b_harrison_road_81",
-      "story_id": "e76af74721806af0",
+      "id": "221b_harrison_road_82",
+      "story_id": "3bc21c9b3858b11e",
       "story_title": "Konka Kauke Charbeniko - Horror Story by Gogol",
       "title": "Konka Kauke Charbeniko - Horror Story by Gogol",
       "category": "horror",
@@ -2179,11 +2191,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534011-44100-1-9b31444eba676928.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_82"
+      "next_story_id": "221b_harrison_road_83"
     },
     {
-      "id": "221b_harrison_road_82",
-      "story_id": "68e419b60a233b4f",
+      "id": "221b_harrison_road_83",
+      "story_id": "03a58c67ccda57c5",
       "story_title": "Sherlock Holmes - The Yellow Face",
       "title": "Sherlock Holmes - The Yellow Face",
       "category": "horror",
@@ -2191,11 +2203,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602437/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534021-44100-1-7ae57a7f3228406f.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_83"
+      "next_story_id": "221b_harrison_road_84"
     },
     {
-      "id": "221b_harrison_road_83",
-      "story_id": "523bac59d04b5919",
+      "id": "221b_harrison_road_84",
+      "story_id": "4ed31ef57ed07b58",
       "story_title": "The Tell Tale Heart - Edgar Allan Poe",
       "title": "The Tell Tale Heart - Edgar Allan Poe",
       "category": "horror",
@@ -2203,11 +2215,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534005-44100-1-0527331cfb99922f.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_84"
+      "next_story_id": "221b_harrison_road_85"
     },
     {
-      "id": "221b_harrison_road_84",
-      "story_id": "60d3594633c79711",
+      "id": "221b_harrison_road_85",
+      "story_id": "133fceea885af667",
       "story_title": "The Adventure in the Mediterranean - Sumitendra Ghosh (World War Story)",
       "title": "The Adventure in the Mediterranean - Sumitendra Ghosh (World War Story)",
       "category": "horror",
@@ -2215,11 +2227,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534006-44100-1-d94c50c534a871dd.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_85"
+      "next_story_id": "221b_harrison_road_86"
     },
     {
-      "id": "221b_harrison_road_85",
-      "story_id": "9088ea9dec5d11f7",
+      "id": "221b_harrison_road_86",
+      "story_id": "a22e75792e10eae5",
       "story_title": "Hercule Poirot - The Nemean Lion by Agatha Christhie",
       "title": "Hercule Poirot - The Nemean Lion by Agatha Christhie",
       "category": "horror",
@@ -2227,11 +2239,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540225-44100-1-bab6dac056833549.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_86"
+      "next_story_id": "221b_harrison_road_87"
     },
     {
-      "id": "221b_harrison_road_86",
-      "story_id": "24b951e824e2ae1b",
+      "id": "221b_harrison_road_87",
+      "story_id": "c78a186c344c229d",
       "story_title": "Sherlock Holmes -The Boscombe Valley Mystery",
       "title": "Sherlock Holmes -The Boscombe Valley Mystery",
       "category": "horror",
@@ -2239,11 +2251,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62838245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2F305228449-44100-1-e6d92b16dcbcb1a4.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_87"
+      "next_story_id": "221b_harrison_road_88"
     },
     {
-      "id": "221b_harrison_road_87",
-      "story_id": "5a25022dd6366d44",
+      "id": "221b_harrison_road_88",
+      "story_id": "1ec56a3c148e39aa",
       "story_title": "Sagorparer Soitan by Utso Bhattacharya - Thriller Story",
       "title": "Sagorparer Soitan by Utso Bhattacharya - Thriller Story",
       "category": "horror",
@@ -2251,11 +2263,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62838366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2F305228699-44100-1-182f76797041c136.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_88"
+      "next_story_id": "221b_harrison_road_89"
     },
     {
-      "id": "221b_harrison_road_88",
-      "story_id": "d95f1caf590eeb58",
+      "id": "221b_harrison_road_89",
+      "story_id": "db235892cdc6112a",
       "story_title": "Daroga Priyonath Premer Khela - Crime Thriller",
       "title": "Daroga Priyonath Premer Khela - Crime Thriller",
       "category": "horror",
@@ -2263,11 +2275,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534016-44100-1-8a5723a04e1785e0.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_89"
+      "next_story_id": "221b_harrison_road_90"
     },
     {
-      "id": "221b_harrison_road_89",
-      "story_id": "fcdee54ab17f6776",
+      "id": "221b_harrison_road_90",
+      "story_id": "67e066ee8f96ca42",
       "story_title": "Matherane Madhuchandrima By Anjana Chottopadhyay",
       "title": "Matherane Madhuchandrima By Anjana Chottopadhyay",
       "category": "horror",
@@ -2275,11 +2287,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540201-44100-1-c6d4c67466df2374.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_90"
+      "next_story_id": "221b_harrison_road_91"
     },
     {
-      "id": "221b_harrison_road_90",
-      "story_id": "5ec88b3b61d145f3",
+      "id": "221b_harrison_road_91",
+      "story_id": "248b813bb073bdf0",
       "story_title": "Father Brown - The Invisible Man by G.K Chesterton",
       "title": "Father Brown - The Invisible Man by G.K Chesterton",
       "category": "horror",
@@ -2287,11 +2299,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62837934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2F305227904-44100-1-1266047b45606cb1.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_91"
+      "next_story_id": "221b_harrison_road_92"
     },
     {
-      "id": "221b_harrison_road_91",
-      "story_id": "46ab0a45f970bf38",
+      "id": "221b_harrison_road_92",
+      "story_id": "0d3ad64a66d4690a",
       "story_title": "Probaballir Pishach by Alalpon Roy Chowdhury.",
       "title": "Probaballir Pishach by Alalpon Roy Chowdhury.",
       "category": "horror",
@@ -2299,11 +2311,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534036-44100-1-8dae7e5e91a07876.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_92"
+      "next_story_id": "221b_harrison_road_93"
     },
     {
-      "id": "221b_harrison_road_92",
-      "story_id": "0ecfda0c6b8e671a",
+      "id": "221b_harrison_road_93",
+      "story_id": "dd6e514d9ae3fee9",
       "story_title": "Roktochosha Painting by Ritapa Banejee",
       "title": "Roktochosha Painting by Ritapa Banejee",
       "category": "horror",
@@ -2311,11 +2323,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540214-44100-1-6f668e74c60426cd.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_93"
+      "next_story_id": "221b_harrison_road_94"
     },
     {
-      "id": "221b_harrison_road_93",
-      "story_id": "dd573f058bc228cd",
+      "id": "221b_harrison_road_94",
+      "story_id": "872a7543fb967d49",
       "story_title": "Sherlock Holmes - The Adventure of Sussex Vampire",
       "title": "Sherlock Holmes - The Adventure of Sussex Vampire",
       "category": "horror",
@@ -2323,11 +2335,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540219-44100-1-7af95f6acf40b357.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_94"
+      "next_story_id": "221b_harrison_road_95"
     },
     {
-      "id": "221b_harrison_road_94",
-      "story_id": "4773888898453234",
+      "id": "221b_harrison_road_95",
+      "story_id": "a043b80973df4293",
       "story_title": "Indira Lake - Horror Story by Sougata Ghosh",
       "title": "Indira Lake - Horror Story by Sougata Ghosh",
       "category": "horror",
@@ -2335,11 +2347,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540230-44100-1-b3c93b3e5119b846.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_95"
+      "next_story_id": "221b_harrison_road_96"
     },
     {
-      "id": "221b_harrison_road_95",
-      "story_id": "eb18c623dedc8692",
+      "id": "221b_harrison_road_96",
+      "story_id": "2722f6d74c210a83",
       "story_title": "Sherlock Holmes - The Problem of Thor Bridge by Sir Arthur Conan Doyle",
       "title": "Sherlock Holmes - The Problem of Thor Bridge by Sir Arthur Conan Doyle",
       "category": "horror",
@@ -2347,11 +2359,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540202-44100-1-5e68d3b31f58f469.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_96"
+      "next_story_id": "221b_harrison_road_97"
     },
     {
-      "id": "221b_harrison_road_96",
-      "story_id": "65baaa7100e11d15",
+      "id": "221b_harrison_road_97",
+      "story_id": "e525fc6ff8ef58d2",
       "story_title": "Kranti - Dinendra Kumar Ray | Horror Story |",
       "title": "Kranti - Dinendra Kumar Ray | Horror Story |",
       "category": "horror",
@@ -2359,11 +2371,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540222-44100-1-ae62d998a1d0ebe5.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_97"
+      "next_story_id": "221b_harrison_road_98"
     },
     {
-      "id": "221b_harrison_road_97",
-      "story_id": "4f87181ef0751888",
+      "id": "221b_harrison_road_98",
+      "story_id": "955b174ee40b7e56",
       "story_title": "Debotar Durbuddhi - Sukumar Ray | Bengali Audio Story |",
       "title": "Debotar Durbuddhi - Sukumar Ray | Bengali Audio Story |",
       "category": "horror",
@@ -2371,11 +2383,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62604575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304540205-44100-1-00e4f9259866d5e9.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_98"
+      "next_story_id": "221b_harrison_road_99"
     },
     {
-      "id": "221b_harrison_road_98",
-      "story_id": "fae30409fb497c8a",
+      "id": "221b_harrison_road_99",
+      "story_id": "601c4428d3358f26",
       "story_title": "Sherlock Holmes - The Adventure of Golden Pince-Nez",
       "title": "Sherlock Holmes - The Adventure of Golden Pince-Nez",
       "category": "horror",
@@ -2383,11 +2395,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534009-44100-1-34d834fda6504b33.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_99"
+      "next_story_id": "221b_harrison_road_100"
     },
     {
-      "id": "221b_harrison_road_99",
-      "story_id": "3d01a8b0ca230a05",
+      "id": "221b_harrison_road_100",
+      "story_id": "0d4ba3be56d5b09a",
       "story_title": "Daroga Priyonath - Horon | Bengali Audio Story |",
       "title": "Daroga Priyonath - Horon | Bengali Audio Story |",
       "category": "horror",
@@ -2395,23 +2407,23 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534032-44100-1-cc4f3e25dde0b607.mp3",
       "next_episode_id": null,
-      "next_story_id": "221b_harrison_road_100"
-    },
-    {
-      "id": "221b_harrison_road_100",
-      "story_id": "dc8004fd571c9329",
-      "story_title": "Bhuleo Sayona Ke Uttor Diyo na | Debdutta Chattaraj | Horror Story",
-      "title": "Bhuleo Sayona Ke Uttor Diyo na | Debdutta Chattaraj | Horror Story",
-      "category": "horror",
-      "source": "221b_harrison_road",
-      "part_number": null,
-      "audio_url": "https://anchor.fm/s/d752fad0/podcast/play/62602443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2F304534013-44100-1-1f43fe68f3bcc5db.mp3",
-      "next_episode_id": null,
       "next_story_id": "roll_sound_goppo_1"
     },
     {
       "id": "roll_sound_goppo_1",
-      "story_id": "29821bbc9f880765",
+      "story_id": "11719c78f1a1eecc",
+      "story_title": "শ্যামাপদ তান্ত্রিক ও শ্মশানকালীর আবির্ভাব ft. RJ KHAS KOUSHIK | ভূত চতুর্দশী স্পেশাল | Samman Roy | গ্রাম বাংলার ভূতের গল্প",
+      "title": "শ্যামাপদ তান্ত্রিক ও শ্মশানকালীর আবির্ভাব ft. RJ KHAS KOUSHIK | ভূত চতুর্দশী স্পেশাল | Samman Roy | গ্রাম বাংলার ভূতের গল্প",
+      "category": "horror",
+      "source": "roll_sound_goppo",
+      "part_number": null,
+      "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/128601563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F435647478-44100-2-047067008ffa9.mp3",
+      "next_episode_id": null,
+      "next_story_id": "roll_sound_goppo_2"
+    },
+    {
+      "id": "roll_sound_goppo_2",
+      "story_id": "53c615f728a392b1",
       "story_title": "হ্যালোউইনের রাতে ড্রাকুলার আতঙ্ক! 🩸 | Dracula’s Guest | Bram Stoker | Halloween Special 2026 | বাংলা ভৌতিক গল্প",
       "title": "হ্যালোউইনের রাতে ড্রাকুলার আতঙ্ক! 🩸 | Dracula’s Guest | Bram Stoker | Halloween Special 2026 | বাংলা ভৌতিক গল্প",
       "category": "horror",
@@ -2419,10 +2431,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/128038089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434933470-44100-2-69d2aa4079c62.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_2"
+      "next_story_id": "roll_sound_goppo_3"
     },
     {
-      "id": "roll_sound_goppo_2",
+      "id": "roll_sound_goppo_3",
       "story_id": "24569d07d7d608b4",
       "story_title": "ব্যাগের ভেতরই ছিল ভয়ের উপাদান | THE KIT BAG | Algernon Blackwood | Halloween Special | Bangla Horror Story",
       "title": "ব্যাগের ভেতরই ছিল ভয়ের উপাদান | THE KIT BAG | Algernon Blackwood | Halloween Special Episode 1 | Bangla Horror Story",
@@ -2431,11 +2443,11 @@
       "part_number": 1,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/127715241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434494571-44100-2-e43fb2636600a.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_3"
+      "next_story_id": "roll_sound_goppo_4"
     },
     {
-      "id": "roll_sound_goppo_3",
-      "story_id": "6cf1de246ddf726e",
+      "id": "roll_sound_goppo_4",
+      "story_id": "b669bd055ce78194",
       "story_title": "এক রাতের আশ্রয় হয়ে গেলো ভয়ঙ্কর মৃত্যুফাঁদ! | বাড়িওয়ালি | Roald Dahl | Bangla Horror Audio Story",
       "title": "এক রাতের আশ্রয় হয়ে গেলো ভয়ঙ্কর মৃত্যুফাঁদ! | বাড়িওয়ালি | Roald Dahl | Bangla Horror Audio Story",
       "category": "horror",
@@ -2443,11 +2455,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/127288622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F433918522-44100-2-604aa2f3b1fcd.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_4"
+      "next_story_id": "roll_sound_goppo_5"
     },
     {
-      "id": "roll_sound_goppo_4",
-      "story_id": "c8b04d94aefff47f",
+      "id": "roll_sound_goppo_5",
+      "story_id": "0cf48f92a7f64f84",
       "story_title": "নেশা, খুন আর এক মূল্যবান মাণিক্য—রহস্যের সমাধানে Dr. Rizvi | মাদকাসক্ত | সম্মান রায় | Detective Story",
       "title": "নেশা, খুন আর এক মূল্যবান মাণিক্য—রহস্যের সমাধানে Dr. Rizvi | মাদকাসক্ত | সম্মান রায় | Detective Story",
       "category": "horror",
@@ -2455,11 +2467,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/126894737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433422478-44100-2-55308cdc67507.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_5"
+      "next_story_id": "roll_sound_goppo_6"
     },
     {
-      "id": "roll_sound_goppo_5",
-      "story_id": "4463919c7a03ae22",
+      "id": "roll_sound_goppo_6",
+      "story_id": "e6ae7850b2597c0d",
       "story_title": "অচেনা গ্রামে রাত কাটাতে গিয়ে যা ঘটল... | এক রাত্রির অতিথি | গজেন্দ্রকুমার মিত্র | গ্রাম বাংলার ভূতের গল্প | Bengali Horror Audio Story",
       "title": "অচেনা গ্রামে রাত কাটাতে গিয়ে যা ঘটল... | এক রাত্রির অতিথি | গজেন্দ্রকুমার মিত্র | গ্রাম বাংলার ভূতের গল্প | Bengali Horror Audio Story",
       "category": "horror",
@@ -2467,11 +2479,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/126339047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2F432710029-44100-2-5baa280b2a56e.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_6"
+      "next_story_id": "roll_sound_goppo_7"
     },
     {
-      "id": "roll_sound_goppo_6",
-      "story_id": "be4e9d612dbccd9e",
+      "id": "roll_sound_goppo_7",
+      "story_id": "4e8384219010c6a3",
       "story_title": "Dr. Thorndyke এবং Pandora’s Box-এর রহস্য | R. Austin Freeman | Bengali Detective Story | গোয়েন্দা গল্প",
       "title": "Dr. Thorndyke এবং Pandora’s Box-এর রহস্য | R. Austin Freeman | Bengali Detective Story | গোয়েন্দা গল্প",
       "category": "horror",
@@ -2479,11 +2491,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/126070153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F432344025-44100-2-7fae3315a844b.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_7"
+      "next_story_id": "roll_sound_goppo_8"
     },
     {
-      "id": "roll_sound_goppo_7",
-      "story_id": "38919881ccfa37b6",
+      "id": "roll_sound_goppo_8",
+      "story_id": "dce777ed50f832d2",
       "story_title": "পুরনো বাড়ি, তিন বোন আর... এক অশুভ রাত...! | The Three Sisters | WW Jacobs | Bideshi Golpo | Horror | SUNDAY SUSPENSE CLASSICS",
       "title": "পুরনো বাড়ি, তিন বোন আর... এক অশুভ রাত...! | The Three Sisters | WW Jacobs | Bideshi Golpo | Horror | SUNDAY SUSPENSE CLASSICS",
       "category": "horror",
@@ -2491,11 +2503,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/125672288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2F431804754-44100-2-bd722fa860eac.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_8"
+      "next_story_id": "roll_sound_goppo_9"
     },
     {
-      "id": "roll_sound_goppo_8",
-      "story_id": "1bb94d3f74aaa2b7",
+      "id": "roll_sound_goppo_9",
+      "story_id": "025ad08ce1ef4c9c",
       "story_title": "মা স্বরস্বতীর এ কী বিপদ?? | তন্ত্রবদ্ধা দেবী | বিভূতিভূষণ বন্দ্যোপাধ্যায় তান্ত্রিক গল্প | মেঘমল্লার | Bibhutibhushan Birthday Special #sundaysuspense",
       "title": "মা স্বরস্বতীর এ কী বিপদ?? | তন্ত্রবদ্ধা দেবী | বিভূতিভূষণ বন্দ্যোপাধ্যায় তান্ত্রিক গল্প | মেঘমল্লার | Bibhutibhushan Birthday Special #sundaysuspense",
       "category": "horror",
@@ -2503,11 +2515,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/125288452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431301538-44100-2-1df03b897f923.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_9"
+      "next_story_id": "roll_sound_goppo_10"
     },
     {
-      "id": "roll_sound_goppo_9",
-      "story_id": "99eb5189b3d6e44f",
+      "id": "roll_sound_goppo_10",
+      "story_id": "63cde51f3c669a01",
       "story_title": "SUNDAY SUSPENSE | শার্লক হোমস | Sherlock Holmes | Adventure of the Engineer's Thumb | Suspense Audio Story | Sir Arthur Conan Doyle",
       "title": "SUNDAY SUSPENSE | শার্লক হোমস | Sherlock Holmes | Adventure of the Engineer's Thumb | Suspense Audio Story | Sir Arthur Conan Doyle",
       "category": "horror",
@@ -2515,11 +2527,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/124992614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430901971-44100-2-de84cd512ccbc.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_10"
+      "next_story_id": "roll_sound_goppo_11"
     },
     {
-      "id": "roll_sound_goppo_10",
-      "story_id": "8596b7b570781839",
+      "id": "roll_sound_goppo_11",
+      "story_id": "a9525fe81a6fcb5e",
       "story_title": "উত্তর সিকিমের ভূত বাংলো | সমরেশ বসু | Bangla Horror Audio Story | ভূতুড়ে পাহাড়ের গল্প #sundaysuspense #midnighthorrorstation",
       "title": "উত্তর সিকিমের ভূত বাংলো | সমরেশ বসু | Bangla Horror Audio Story | ভূতুড়ে পাহাড়ের গল্প #sundaysuspense #midnighthorrorstation",
       "category": "horror",
@@ -2527,11 +2539,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/124531343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2F430264227-44100-2-7663f40f172f7.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_11"
+      "next_story_id": "roll_sound_goppo_12"
     },
     {
-      "id": "roll_sound_goppo_11",
-      "story_id": "4c3a5a02c4580aea",
+      "id": "roll_sound_goppo_12",
+      "story_id": "f4c78bf03d8d701d",
       "story_title": "ডাইওনিসিয়াসের মুদ্রা (THE COIN OF DIONYSIUS)।Blind Sherlock | Ernest Bramah | Max Carrados - Detective Audio Story",
       "title": "ডাইওনিসিয়াসের মুদ্রা (THE COIN OF DIONYSIUS)।Blind Sherlock | Ernest Bramah | Max Carrados - Detective Audio Story",
       "category": "horror",
@@ -2539,11 +2551,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/124028842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429579009-44100-2-253c092d53c94.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_12"
+      "next_story_id": "roll_sound_goppo_13"
     },
     {
-      "id": "roll_sound_goppo_12",
-      "story_id": "1b3d5327e4a5e367",
+      "id": "roll_sound_goppo_13",
+      "story_id": "16c11d7dd712b2bd",
       "story_title": "রাজাবাহাদুরের রঙ্গমঞ্চ | পরিত্যক্ত রাজবাড়ির ভয়ংকর রহস্য | Bangla Horror Story | ফণীন্দ্রনাথ পাল",
       "title": "রাজাবাহাদুরের রঙ্গমঞ্চ | পরিত্যক্ত রাজবাড়ির ভয়ংকর রহস্য | Bangla Horror Story | ফণীন্দ্রনাথ পাল",
       "category": "horror",
@@ -2551,11 +2563,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/124016356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429559733-44100-2-d1a056c5f8a53.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_13"
+      "next_story_id": "roll_sound_goppo_14"
     },
     {
-      "id": "roll_sound_goppo_13",
-      "story_id": "cc4d30b103e478b8",
+      "id": "roll_sound_goppo_14",
+      "story_id": "35b27ea51dde13e5",
       "story_title": "হলুদ পোড়ালেই কি বেরিয়ে আসে ভূত? | হলুদ পোড়া (Holud Pora) | মানিক বন্দ্যোপাধ্যায় | গ্রাম বাংলার ভূতের গল্প | Bengali Ghost Story #sundaysuspense #goppomirerthek",
       "title": "হলুদ পোড়ালেই কি বেরিয়ে আসে ভূত? | হলুদ পোড়া (Holud Pora) | মানিক বন্দ্যোপাধ্যায় | গ্রাম বাংলার ভূতের গল্প | Bengali Ghost Story #sundaysuspense #goppomirerthek",
       "category": "horror",
@@ -2563,11 +2575,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/123819908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2F429288077-44100-2-11de4f58d2c0e.m4a",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_14"
+      "next_story_id": "roll_sound_goppo_15"
     },
     {
-      "id": "roll_sound_goppo_14",
-      "story_id": "79a0a0af473078a3",
+      "id": "roll_sound_goppo_15",
+      "story_id": "a849a556f9f6260d",
       "story_title": "মৃত্যুর তিন হাতিয়ার ( The Three Tools of Death) | Father Brown Detective Series | G.K. Chesterton | বাংলা গোয়েন্দা গল্প #suspense",
       "title": "মৃত্যুর তিন হাতিয়ার ( The Three Tools of Death) | Father Brown Detective Series | G.K. Chesterton | বাংলা গোয়েন্দা গল্প #suspense",
       "category": "horror",
@@ -2575,11 +2587,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/123253408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428527182-44100-2-25fe677312456.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_15"
+      "next_story_id": "roll_sound_goppo_16"
     },
     {
-      "id": "roll_sound_goppo_15",
-      "story_id": "7b2a3a22aeae9055",
+      "id": "roll_sound_goppo_16",
+      "story_id": "7ceb5e1eba4bcb39",
       "story_title": "গ্রামবাংলার ভূতের গল্প - কিন্তু ভয়ের চেয়ে হাসিই বেশি! | রামাই ভূত | Tarashankar Bandyopadhyay | Bangla Audio Story | Comedy Horror #sundaysuspense",
       "title": "গ্রামবাংলার ভূতের গল্প - কিন্তু ভয়ের চেয়ে হাসিই বেশি! | রামাই ভূত | Tarashankar Bandyopadhyay | Bangla Audio Story | Comedy Horror #sundaysuspense",
       "category": "horror",
@@ -2587,11 +2599,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/123134958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428365248-44100-2-bbffcbf67d803.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_16"
+      "next_story_id": "roll_sound_goppo_17"
     },
     {
-      "id": "roll_sound_goppo_16",
-      "story_id": "d9f5a593dc5306ac",
+      "id": "roll_sound_goppo_17",
+      "story_id": "d0f120566855fe60",
       "story_title": "নিখোঁজ বন্ধকগ্রহীতা (The Case of The Missing Mortgagee) | Detective Dr Thorndyke Story | ব্রিটিশ গোয়েন্দা গল্প | R. Austin Freeman | Sherlock Holmes Type #Detectivestory #SundaySuspense",
       "title": "নিখোঁজ বন্ধকগ্রহীতা (The Case of The Missing Mortgagee) | Detective Dr Thorndyke Story | ব্রিটিশ গোয়েন্দা গল্প | R. Austin Freeman | Sherlock Holmes Type #Detectivestory #SundaySuspense",
       "category": "horror",
@@ -2599,11 +2611,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/122835610/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427959845-44100-2-c7143fe7637d3.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_17"
+      "next_story_id": "roll_sound_goppo_18"
     },
     {
-      "id": "roll_sound_goppo_17",
-      "story_id": "b11257e7f76395a1",
+      "id": "roll_sound_goppo_18",
+      "story_id": "81702077f6953e73",
       "story_title": "যে সরাইখানায় একবার উঠলে আর ফেরা যেত না... | The Inn | Guy Preston | বিদেশী ভৌতিক গল্প | অনুবাদ গল্প | SUNDAY SUSPENSE | Bengali Horror Audio Story",
       "title": "যে সরাইখানায় একবার উঠলে আর ফেরা যেত না... | The Inn | Guy Preston | বিদেশী ভৌতিক গল্প | অনুবাদ গল্প | SUNDAY SUSPENSE | Bengali Horror Audio Story",
       "category": "horror",
@@ -2611,11 +2623,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/122372304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F427337169-44100-2-f6a5ad36a6088.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_18"
+      "next_story_id": "roll_sound_goppo_19"
     },
     {
-      "id": "roll_sound_goppo_18",
-      "story_id": "9a57f50c0005712a",
+      "id": "roll_sound_goppo_19",
+      "story_id": "ddc07d11e95b8936",
       "story_title": "HASHI (হাসি) | বিভূতিভূষণ বন্দ্যোপাধ্যায় | গভীর রাতের নিস্তব্ধ জঙ্গলে শোনা গেল কার অট্টহাসি? | গ্রামবাংলার ভূতের গল্প | Bengali Horror Audio Story | Sunday Suspense",
       "title": "HASHI (হাসি) | বিভূতিভূষণ বন্দ্যোপাধ্যায় | গভীর রাতের নিস্তব্ধ জঙ্গলে শোনা গেল কার অট্টহাসি? | গ্রামবাংলার ভূতের গল্প | Bengali Horror Audio Story | Sunday Suspense",
       "category": "horror",
@@ -2623,11 +2635,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/122065408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426929223-44100-2-5bd275d738907.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_19"
+      "next_story_id": "roll_sound_goppo_20"
     },
     {
-      "id": "roll_sound_goppo_19",
-      "story_id": "9ade208ed1aff4dd",
+      "id": "roll_sound_goppo_20",
+      "story_id": "bb3485dd0574d365",
       "story_title": "নিশীথ রাক্ষসীর কাহিনী - বঙ্কিমচন্দ্রের লেখা একমাত্র ভৌতিক গল্প | Roll Sound Originals | সম্মান রায় #SundaySuspense #ClassicBengaliHorror #GothicHorror",
       "title": "নিশীথ রাক্ষসীর কাহিনী - বঙ্কিমচন্দ্রের লেখা একমাত্র ভৌতিক গল্প | Roll Sound Originals | সম্মান রায় #SundaySuspense #ClassicBengaliHorror #GothicHorror",
       "category": "horror",
@@ -2635,11 +2647,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/121786186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2F426552767-44100-2-c660e68973659.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_20"
+      "next_story_id": "roll_sound_goppo_21"
     },
     {
-      "id": "roll_sound_goppo_20",
-      "story_id": "9974e39208f6f6f1",
+      "id": "roll_sound_goppo_21",
+      "story_id": "3ec760429cbb2dae",
       "story_title": "অভিশপ্তা (18+) | Hemendra Kumar Roy | প্রেম, প্রতারণা ও এক অভিশপ্ত নারীর গল্প | Bengali Audio Story",
       "title": "অভিশপ্তা (18+) | Hemendra Kumar Roy | প্রেম, প্রতারণা ও এক অভিশপ্ত নারীর গল্প | Bengali Audio Story",
       "category": "horror",
@@ -2647,11 +2659,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/121543985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426233490-44100-2-3e02f13ea990e.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_21"
+      "next_story_id": "roll_sound_goppo_22"
     },
     {
-      "id": "roll_sound_goppo_21",
-      "story_id": "4c4b107a4cdf9b75",
+      "id": "roll_sound_goppo_22",
+      "story_id": "8efbaa7e3dea67a2",
       "story_title": "যুবকের গান শুনে কন্যার হ্রিদস্পন্দন দ্রুত হয়ে গেল | 18+ Horror Story | অভিশপ্তা (Trailer)| হেমেন্দ্রকুমার রায় #suspensestory #bengaliaudiostory",
       "title": "যুবকের গান শুনে কন্যার হ্রিদস্পন্দন দ্রুত হয়ে গেল | 18+ Horror Story | অভিশপ্তা (Trailer)| হেমেন্দ্রকুমার রায় #suspensestory #bengaliaudiostory",
       "category": "horror",
@@ -2659,11 +2671,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/121627353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426340070-44100-2-9f7355e9c8d9e.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_22"
+      "next_story_id": "roll_sound_goppo_23"
     },
     {
-      "id": "roll_sound_goppo_22",
-      "story_id": "c78e1bb43b10ec74",
+      "id": "roll_sound_goppo_23",
+      "story_id": "da07e958d8eba295",
       "story_title": "পৈতৃক ভিটে | বিভূতিভূষণ বন্দ্যোপাধ্যায় | বহুদিন বন্ধ থাকা বাড়িটা...খালি ছিল না | Bangla Horror Story #SundaySuspense",
       "title": "পৈতৃক ভিটে | বিভূতিভূষণ বন্দ্যোপাধ্যায় | বহুদিন বন্ধ থাকা বাড়িটা...খালি ছিল না | Bangla Horror Story #SundaySuspense",
       "category": "horror",
@@ -2671,11 +2683,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/121044567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F425562203-44100-2-37c5fcbf2c8ca.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_23"
+      "next_story_id": "roll_sound_goppo_24"
     },
     {
-      "id": "roll_sound_goppo_23",
-      "story_id": "5e16bdff29605773",
+      "id": "roll_sound_goppo_24",
+      "story_id": "d79aa53068744889",
       "story_title": "নিবারণ গুণিন ও বালিডাঙ্গার মাঠ | ষষ্ঠীপদ চট্টোপাধ্যায় | TARANATH TANTRIK Type Story | গ্রাম বাংলার ভূতের গল্প #tantrikhorror #sundaysuspense #goppomirerthek #midnighthorrorstation",
       "title": "নিবারণ গুণিন ও বালিডাঙ্গার মাঠ | ষষ্ঠীপদ চট্টোপাধ্যায় | TARANATH TANTRIK Type Story | গ্রাম বাংলার ভূতের গল্প #tantrikhorror #sundaysuspense #goppomirerthek #midnighthorrorstation",
       "category": "horror",
@@ -2683,11 +2695,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/120857298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F425310508-44100-2-2a67c245ff909.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_24"
+      "next_story_id": "roll_sound_goppo_25"
     },
     {
-      "id": "roll_sound_goppo_24",
-      "story_id": "6ffb6ac16cb53348",
+      "id": "roll_sound_goppo_25",
+      "story_id": "a0f1d1336549c94e",
       "story_title": "নোনাজল | সৈয়দ মুজতবা আলি | ঘর থেকে হাজার মাইল দূরে... তবু আজও তার বুকের ভিতর বাংলা | EID Special | Bengali Audio Story | গ্রাম বাংলার নাবিকের গল্প",
       "title": "নোনাজল | সৈয়দ মুজতবা আলি | ঘর থেকে হাজার মাইল দূরে... তবু আজও তার বুকের ভিতর বাংলা | EID Special | Bengali Audio Story | গ্রাম বাংলার নাবিকের গল্প",
       "category": "horror",
@@ -2695,11 +2707,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/120500175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-25%2F424833738-44100-2-0bed6463867ae.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_25"
+      "next_story_id": "roll_sound_goppo_26"
     },
     {
-      "id": "roll_sound_goppo_25",
-      "story_id": "50d841e00d17bc2c",
+      "id": "roll_sound_goppo_26",
+      "story_id": "2d0497e892569e62",
       "story_title": "চোখের সামনে থেকে বিঘাউনি রাজার হীরে উধাও...? | Detective হুকা কাশির গল্প | হীরক রহস্য | Bengali Mystery Story",
       "title": "চোখের সামনে থেকে বিঘাউনি রাজার হীরে উধাও...? | Detective হুকা কাশির গল্প | হীরক রহস্য | Bengali Mystery Story",
       "category": "horror",
@@ -2707,11 +2719,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/119223390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2F423112658-44100-2-6a050e227fec3.m4a",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_26"
+      "next_story_id": "roll_sound_goppo_27"
     },
     {
-      "id": "roll_sound_goppo_26",
-      "story_id": "27e9d9518ce6630b",
+      "id": "roll_sound_goppo_27",
+      "story_id": "e5c201e184c70d90",
       "story_title": "অভিশাপ | বিভূতিভূষণ বন্দ্যোপাধ্যায় | সেই প্রাসাদে আজও নাকি শোনা যায় অভিশপ্ত কান্না... | ভৌতিক গল্প | Classic Bengali Horror Story #SundaySuspense",
       "title": "অভিশাপ | বিভূতিভূষণ বন্দ্যোপাধ্যায় | সেই প্রাসাদে আজও নাকি শোনা যায় অভিশপ্ত কান্না... | ভৌতিক গল্প | Classic Bengali Horror Story #SundaySuspense",
       "category": "horror",
@@ -2719,10 +2731,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/120208556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424446009-44100-2-59adece8453d8.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_27"
+      "next_story_id": "roll_sound_goppo_28"
     },
     {
-      "id": "roll_sound_goppo_27",
+      "id": "roll_sound_goppo_28",
       "story_id": "95c41284cb2fae08",
       "story_title": "দার্জিলিং-এর সেই গির্জার রাত | সম্মান রায় | ওই পরিত্যক্ত গির্জায় আজও রাতে আলো জ্বলে... কেন? | Roll Sound Original | Bengali Horror Audio Story #SundaySuspense #MidnightHorrorStation",
       "title": "দার্জিলিং-এর সেই গির্জার রাত | সম্মান রায় | ওই পরিত্যক্ত গির্জায় আজও রাতে আলো জ্বলে... কেন? | Roll Sound Original Ep 04 | Bengali Horror Audio Story #SundaySuspense #MidnightHorrorStation",
@@ -2731,11 +2743,11 @@
       "part_number": 4,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/119783561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-10%2F423877077-44100-2-455ef374e716.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_28"
+      "next_story_id": "roll_sound_goppo_29"
     },
     {
-      "id": "roll_sound_goppo_28",
-      "story_id": "3779554a90409b25",
+      "id": "roll_sound_goppo_29",
+      "story_id": "91f04e0ea7c9fe2a",
       "story_title": "গুপ্তধন | রবীন্দ্রজয়ন্তী পর্ব | রবীন্দ্রনাথের সবচেয়ে রহস্যময় অভিযানের গল্প | Roll Sound Classics #SundaySuspense #BengaliAudioStory",
       "title": "গুপ্তধন | রবীন্দ্রজয়ন্তী পর্ব | রবীন্দ্রনাথের সবচেয়ে রহস্যময় অভিযানের গল্প | Roll Sound Classics #SundaySuspense #BengaliAudioStory",
       "category": "horror",
@@ -2743,11 +2755,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/119585593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-6%2F423608101-44100-2-74a8cf311ce95.m4a",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_29"
+      "next_story_id": "roll_sound_goppo_30"
     },
     {
-      "id": "roll_sound_goppo_29",
-      "story_id": "7cb4029db7f8a8f5",
+      "id": "roll_sound_goppo_30",
+      "story_id": "551e0295b2065caa",
       "story_title": "ভুলোর ছলনা (Bhulor Chhalona) - Tarashankar Bandyopadhyay | ওই ডাকে সাড়া দিলে... আর ফেরার পথ নেই! | (গ্রাম বাংলার ভূতের গল্প) | Bengali Horror Story #SundaySuspense",
       "title": "ভুলোর ছলনা (Bhulor Chhalona) - Tarashankar Bandyopadhyay | ওই ডাকে সাড়া দিলে... আর ফেরার পথ নেই! | (গ্রাম বাংলার ভূতের গল্প) | Bengali Horror Story #SundaySuspense",
       "category": "horror",
@@ -2755,11 +2767,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/119024419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F422842461-44100-2-aae62adb06365.m4a",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_30"
+      "next_story_id": "roll_sound_goppo_31"
     },
     {
-      "id": "roll_sound_goppo_30",
-      "story_id": "72e736577250fd01",
+      "id": "roll_sound_goppo_31",
+      "story_id": "7a271d7063c2b617",
       "story_title": "Miss Marple Tells A Story | মিস মার্পল | Agatha Christie | পাশের ঘরেই খুন স্ত্রী...? | গোয়েন্দা গল্প",
       "title": "Miss Marple Tells A Story | মিস মার্পল | Agatha Christie | পাশের ঘরেই খুন স্ত্রী...? | গোয়েন্দা গল্প",
       "category": "horror",
@@ -2767,10 +2779,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/118760482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-21%2F422500894-44100-2-092d143d6f758.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_31"
+      "next_story_id": "roll_sound_goppo_32"
     },
     {
-      "id": "roll_sound_goppo_31",
+      "id": "roll_sound_goppo_32",
       "story_id": "900533f1a930e8af",
       "story_title": "হাইওয়ের ধারের সেই পথের রহস্য | সম্মান রায় | হাইওয়ের সেই পথটা সবাই এড়িয়ে চলে কেন? | ROLL SOUND ORIGINALS | Highway Horror Audio Story #SundaySuspense",
       "title": "হাইওয়ের ধারের সেই পথের রহস্য | সম্মান রায় | হাইওয়ের সেই পথটা সবাই এড়িয়ে চলে কেন? | ROLL SOUND ORIGINALS Ep 03 | Highway Horror Audio Story #SundaySuspense",
@@ -2779,11 +2791,11 @@
       "part_number": 3,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/118289953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-11%2F421849526-44100-2-cce15fe2ffdcc.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_32"
+      "next_story_id": "roll_sound_goppo_33"
     },
     {
-      "id": "roll_sound_goppo_32",
-      "story_id": "bb55bb1fc51b3c10",
+      "id": "roll_sound_goppo_33",
+      "story_id": "9bdd4aaedc88ae39",
       "story_title": "খুনের একমাত্র প্রমাণ—এক রত্তি মাটি | জয়ন্ত মানিক | Bangla Detective Audio Story | হেমেন্দ্রকুমার রায় | বাংলা গোয়েন্দা গল্প #sundaysupsense",
       "title": "খুনের একমাত্র প্রমাণ—এক রত্তি মাটি | জয়ন্ত মানিক | Bangla Detective Audio Story | হেমেন্দ্রকুমার রায় | বাংলা গোয়েন্দা গল্প #sundaysupsense",
       "category": "horror",
@@ -2791,11 +2803,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/117758133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-31%2F421153527-44100-2-02b35a7c498a4.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_33"
+      "next_story_id": "roll_sound_goppo_34"
     },
     {
-      "id": "roll_sound_goppo_33",
-      "story_id": "5bbc7e8272b6db60",
+      "id": "roll_sound_goppo_34",
+      "story_id": "890345f0e3665e41",
       "story_title": "Sherlock Holmes | রক্তপিপাসু নারী (The Adventure of the Sussex Vampire) | SUNDAY SUSPENSE",
       "title": "Sherlock Holmes | রক্তপিপাসু নারী (The Adventure of the Sussex Vampire) | SUNDAY SUSPENSE",
       "category": "horror",
@@ -2803,10 +2815,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/117756093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-31%2F421141506-44100-2-705c05d140e35.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_34"
+      "next_story_id": "roll_sound_goppo_35"
     },
     {
-      "id": "roll_sound_goppo_34",
+      "id": "roll_sound_goppo_35",
       "story_id": "1c6a7dc28ac7360d",
       "story_title": "জয়ন্তীর বিভীষিকা | সম্মান রায় | ডুয়ার্সের জঙ্গলে সেই রাত... ভুলতে পারিনি | North Bengal Horror Story | Roll Sound Originals | ভূতের গল্প |Jungle Horror Stories #sundaysuspense #kaal",
       "title": "জয়ন্তীর বিভীষিকা | সম্মান রায় | ডুয়ার্সের জঙ্গলে সেই রাত... ভুলতে পারিনি | North Bengal Horror Story | Roll Sound Originals Ep 02 | ভূতের গল্প |Jungle Horror Stories #sundaysuspense #kaal",
@@ -2815,11 +2827,11 @@
       "part_number": 2,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/117391150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420651173-44100-2-9e741eaf56de9.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_35"
+      "next_story_id": "roll_sound_goppo_36"
     },
     {
-      "id": "roll_sound_goppo_35",
-      "story_id": "05e25523ac326ae0",
+      "id": "roll_sound_goppo_36",
+      "story_id": "544d7f4cd3d1d03a",
       "story_title": "১৩ নং বাড়ির রহস্য | Detective HUKA KASHI | মনোরঞ্জন ভট্টাচার্য | Bengali Detective Story #suspense",
       "title": "১৩ নং বাড়ির রহস্য | Detective HUKA KASHI | মনোরঞ্জন ভট্টাচার্য | Bengali Detective Story #suspense",
       "category": "horror",
@@ -2827,11 +2839,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/116901319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-14%2F419986210-44100-2-4efa517d67ca4.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_36"
+      "next_story_id": "roll_sound_goppo_37"
     },
     {
-      "id": "roll_sound_goppo_36",
-      "story_id": "298d153f09859bc0",
+      "id": "roll_sound_goppo_37",
+      "story_id": "5a88df616971e220",
       "story_title": "২৫ বছর পর সে কেন ফিরে এলো? | The Demon Lover (পিশাচের প্রেমিকা ) | Elizabeth Bowen | Women's Day Special Episode | অনুবাদ গল্প | Sunday Suspense #Banglaaudiostory",
       "title": "২৫ বছর পর সে কেন ফিরে এলো? | The Demon Lover (পিশাচের প্রেমিকা ) | Elizabeth Bowen | Women's Day Special Episode | অনুবাদ গল্প | Sunday Suspense #Banglaaudiostory",
       "category": "horror",
@@ -2839,10 +2851,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/116477476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2F419406864-44100-2-f7c16a7b9624.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_37"
+      "next_story_id": "roll_sound_goppo_38"
     },
     {
-      "id": "roll_sound_goppo_37",
+      "id": "roll_sound_goppo_38",
       "story_id": "d0faf65334a2f6c1",
       "story_title": "সিন্দবাদের প্রথম সমুদ্র যাত্রা | Adventures of Sindbad | আরব্য রজনী | Arabian Nights | আলিফ লায়লা | সিন্দবাদের প্রথম সমুদ্র যাত্রা | Sunday Suspense #Banglaaudiostory #adventurestories",
       "title": "সিন্দবাদের প্রথম সমুদ্র যাত্রা | Adventures of Sindbad Episode 1 | আরব্য রজনী | Arabian Nights | আলিফ লায়লা | সিন্দবাদের প্রথম সমুদ্র যাত্রা | Sunday Suspense #Banglaaudiostory #adventurestories",
@@ -2851,11 +2863,11 @@
       "part_number": 1,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/116068316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418860289-44100-2-7ae88e898f56c.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_38"
+      "next_story_id": "roll_sound_goppo_39"
     },
     {
-      "id": "roll_sound_goppo_38",
-      "story_id": "8d90f2579776aa79",
+      "id": "roll_sound_goppo_39",
+      "story_id": "c1dfbfc4fe60ebb2",
       "story_title": "Sherlock Holmes | নিঃসঙ্গ সাইকেল আরোহী | Detective Audio Story ft. ‪ @actor_pritamdebnath | The Solitary Cyclist | Sir Arthur Conan Doyle #sundaysuspense",
       "title": "Sherlock Holmes | নিঃসঙ্গ সাইকেল আরোহী | Detective Audio Story ft. ‪ @actor_pritamdebnath | The Solitary Cyclist | Sir Arthur Conan Doyle #sundaysuspense",
       "category": "horror",
@@ -2863,11 +2875,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/115722186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418393852-44100-2-0e4d07f1a4cba.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_39"
+      "next_story_id": "roll_sound_goppo_40"
     },
     {
-      "id": "roll_sound_goppo_39",
-      "story_id": "9d1d228ffe70a66c",
+      "id": "roll_sound_goppo_40",
+      "story_id": "33aa79a9c9b4131f",
       "story_title": "ভালোবাসা ছিল... কিন্তু সাহস ছিল না | KAPURUSH (কাপুরুষ) | প্রেমেন্দ্র মিত্র | Valentine’s Day Special",
       "title": "ভালোবাসা ছিল... কিন্তু সাহস ছিল না | KAPURUSH (কাপুরুষ) | প্রেমেন্দ্র মিত্র | Valentine’s Day Special",
       "category": "horror",
@@ -2875,11 +2887,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/115297703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F417825857-44100-2-a009277fc8688.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_40"
+      "next_story_id": "roll_sound_goppo_41"
     },
     {
-      "id": "roll_sound_goppo_40",
-      "story_id": "3d07a84247ec7e06",
+      "id": "roll_sound_goppo_41",
+      "story_id": "ca1aba4de06684eb",
       "story_title": "ভৈরব তান্ত্রিক ও অভিশপ্ত মেডেল | Bibhutibhushan Fan Fiction | তারানাথ তান্ত্রিক like | Bengali Horror Audio Story #SundaySuspense #TaranathTantrik",
       "title": "ভৈরব তান্ত্রিক ও অভিশপ্ত মেডেল | Bibhutibhushan Fan Fiction | তারানাথ তান্ত্রিক like | Bengali Horror Audio Story #SundaySuspense #TaranathTantrik",
       "category": "horror",
@@ -2887,10 +2899,10 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/114589686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-27%2F416917802-44100-2-7558339e3fc03.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_41"
+      "next_story_id": "roll_sound_goppo_42"
     },
     {
-      "id": "roll_sound_goppo_41",
+      "id": "roll_sound_goppo_42",
       "story_id": "7d44cc4e0ef3c0cc",
       "story_title": "Roll Sound Classics : Dream of a Ridiculous Man | এক উদ্ভট মানুষের স্বপ্ন | Fyodor Dostoyevsky | Sudip Mukherjee | Full Audiobook #bengaliaudiostory #worldliterature #deepsleep #audiobook",
       "title": "Roll Sound Classics Ep 01: Dream of a Ridiculous Man | এক উদ্ভট মানুষের স্বপ্ন | Fyodor Dostoyevsky | Sudip Mukherjee | Full Audiobook #bengaliaudiostory #worldliterature #deepsleep #audiobook",
@@ -2899,11 +2911,11 @@
       "part_number": 1,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/114320987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-21%2F416534090-44100-2-1768d123890ca.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_42"
+      "next_story_id": "roll_sound_goppo_43"
     },
     {
-      "id": "roll_sound_goppo_42",
-      "story_id": "263b04a6a61afefa",
+      "id": "roll_sound_goppo_43",
+      "story_id": "3bcf40397e2b6ef2",
       "story_title": "শান্তিধামের অশান্তি | Detective HUKA KASHI | মনোরঞ্জন ভট্টাচার্য | Bengali Detective Story | জাপানী গোয়েন্দা #suspense #mysterypodcast",
       "title": "শান্তিধামের অশান্তি | Detective HUKA KASHI | মনোরঞ্জন ভট্টাচার্য | Bengali Detective Story | জাপানী গোয়েন্দা #suspense #mysterypodcast",
       "category": "horror",
@@ -2911,11 +2923,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/113743637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-9%2F415798259-44100-2-d49f4e745c904.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_43"
+      "next_story_id": "roll_sound_goppo_44"
     },
     {
-      "id": "roll_sound_goppo_43",
-      "story_id": "57da9476c453f41d",
+      "id": "roll_sound_goppo_44",
+      "story_id": "b8739b0150eeed63",
       "story_title": "বড়দিনে খুন? | A Christmas Murder (Markheim) - R. L. Stevenson | অনুবাদ গল্প | Gothic Crime Thriller",
       "title": "বড়দিনে খুন? | A Christmas Murder (Markheim) - R. L. Stevenson | অনুবাদ গল্প | Gothic Crime Thriller",
       "category": "horror",
@@ -2923,11 +2935,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/113193102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-28%2F415100507-44100-2-7a01a55b7ba24.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_44"
+      "next_story_id": "roll_sound_goppo_45"
     },
     {
-      "id": "roll_sound_goppo_44",
-      "story_id": "7c5ba78bf3948580",
+      "id": "roll_sound_goppo_45",
+      "story_id": "155db989ae627fdf",
       "story_title": "A Special Message To All Our Listeners | স্রোতাদের উদ্দেশ্যে একটি বিশেষ বার্তা",
       "title": "A Special Message To All Our Listeners | স্রোতাদের উদ্দেশ্যে একটি বিশেষ বার্তা",
       "category": "horror",
@@ -2935,11 +2947,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/113019165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-23%2F414878594-44100-2-c2a13900eaa0a.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_45"
+      "next_story_id": "roll_sound_goppo_46"
     },
     {
-      "id": "roll_sound_goppo_45",
-      "story_id": "ec5d8b73d332e28a",
+      "id": "roll_sound_goppo_46",
+      "story_id": "0b08763ebb7c620c",
       "story_title": "বাংলার গ্রামে জাপানী গোয়েন্দা? | Detective HUKA KASHI | চন্ডেশ্বরপুরের রহস্য | মনোরঞ্জন ভট্টাচার্য",
       "title": "বাংলার গ্রামে জাপানী গোয়েন্দা? | Detective HUKA KASHI | চন্ডেশ্বরপুরের রহস্য | মনোরঞ্জন ভট্টাচার্য",
       "category": "horror",
@@ -2947,11 +2959,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/112585104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414397483-44100-2-8db8f106156e5.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_46"
+      "next_story_id": "roll_sound_goppo_47"
     },
     {
-      "id": "roll_sound_goppo_46",
-      "story_id": "e2cd9745b0a7d085",
+      "id": "roll_sound_goppo_47",
+      "story_id": "7e4301b7b8b1e400",
       "story_title": "ঝড়ের মধ্যে দরজায় টোকা! সত্যিই কি এসেছে কেউ? | Ke? (কে?) | Hemendra Kumar Roy | বাংলা ভৌতিক গল্প",
       "title": "ঝড়ের মধ্যে দরজায় টোকা! সত্যিই কি এসেছে কেউ? | Ke? (কে?) | Hemendra Kumar Roy | বাংলা ভৌতিক গল্প",
       "category": "horror",
@@ -2959,11 +2971,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/111743251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413215755-44100-2-60edef3591e8c.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_47"
+      "next_story_id": "roll_sound_goppo_48"
     },
     {
-      "id": "roll_sound_goppo_47",
-      "story_id": "a37037b36a99c35c",
+      "id": "roll_sound_goppo_48",
+      "story_id": "33f00e799fb7e1eb",
       "story_title": "মাঝরাতে কবর ফুঁড়ে উঠে আসে ওটা কার দেহ? | জম্বি (Zombie) | গৌরী দে | Horror | হাড় কাঁপানো ভূতের গল্প | বিদেশী ভূতের গল্প #sundaysuspense #goppomirerthek #horroraudiostory",
       "title": "মাঝরাতে কবর ফুঁড়ে উঠে আসে ওটা কার দেহ? | জম্বি (Zombie) | গৌরী দে | Horror | হাড় কাঁপানো ভূতের গল্প | বিদেশী ভূতের গল্প #sundaysuspense #goppomirerthek #horroraudiostory",
       "category": "horror",
@@ -2971,11 +2983,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/111239759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-16%2F412555680-44100-2-6f4250735362d.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_48"
+      "next_story_id": "roll_sound_goppo_49"
     },
     {
-      "id": "roll_sound_goppo_48",
-      "story_id": "d1c1f4310cd69ded",
+      "id": "roll_sound_goppo_49",
+      "story_id": "c33bcc5b8417f1de",
       "story_title": "SHERLOCK HOLMES | The Speckled Band | যমজ বোনের মৃত্যুর পিছনে একটা শীষ? | গোয়েন্দা গল্প #sundaysuspense #midnighthorror #goppomirerthek",
       "title": "SHERLOCK HOLMES | The Speckled Band | যমজ বোনের মৃত্যুর পিছনে একটা শীষ? | গোয়েন্দা গল্প #sundaysuspense #midnighthorror #goppomirerthek",
       "category": "horror",
@@ -2983,11 +2995,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/110837786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-7%2F410798107-44100-2-dbec47784b275.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_49"
+      "next_story_id": "roll_sound_goppo_50"
     },
     {
-      "id": "roll_sound_goppo_49",
-      "story_id": "a7ab4170fd7c8960",
+      "id": "roll_sound_goppo_50",
+      "story_id": "56af1f17c54c9ec0",
       "story_title": "শ্বশুরবাড়ির পথে ভূতের খপ্পরে? | Bhuter Nimontron (ভূতের নিমন্ত্রণ) | শ্রী স্বপনকুমার | Horror Comedy #SundaySuspense #GoppoMirerThek #MidnightHorrorStation",
       "title": "শ্বশুরবাড়ির পথে ভূতের খপ্পরে? | Bhuter Nimontron (ভূতের নিমন্ত্রণ) | শ্রী স্বপনকুমার | Horror Comedy #SundaySuspense #GoppoMirerThek #MidnightHorrorStation",
       "category": "horror",
@@ -2995,11 +3007,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/110479502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2F410320408-44100-2-17b0b8be369f2.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_50"
+      "next_story_id": "roll_sound_goppo_51"
     },
     {
-      "id": "roll_sound_goppo_50",
-      "story_id": "ee39fe7cd3e3930e",
+      "id": "roll_sound_goppo_51",
+      "story_id": "0facf921a3d76045",
       "story_title": "The Signalman (দ্য সিগনাল ম্যান) | Charles Dickens | ভৌতিক অনুবাদ গল্প | Sunday Suspense Audio Story #horrorstories #sundaysuspense #midnighthorrorstation #goppomirerthek",
       "title": "The Signalman (দ্য সিগনাল ম্যান) | Charles Dickens | ভৌতিক অনুবাদ গল্প | Sunday Suspense Audio Story #horrorstories #sundaysuspense #midnighthorrorstation #goppomirerthek",
       "category": "horror",
@@ -3007,11 +3019,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/110187168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-25%2F409937796-44100-2-1eda16666e356.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_51"
+      "next_story_id": "roll_sound_goppo_52"
     },
     {
-      "id": "roll_sound_goppo_51",
-      "story_id": "5dd412349cc90f6a",
+      "id": "roll_sound_goppo_52",
+      "story_id": "8b594a86931651e5",
       "story_title": "বাংলার গ্রামে ভ্যাম্পায়ার? | Mrs Kumudini Chowdhury (মিসেস কুমুদিনী চৌধুরী) | Hemendra Kumar Roy - Bengali Vampire Story #SundaySuspense #MidnightHorrorStation",
       "title": "বাংলার গ্রামে ভ্যাম্পায়ার? | Mrs Kumudini Chowdhury (মিসেস কুমুদিনী চৌধুরী) | Hemendra Kumar Roy - Bengali Vampire Story #SundaySuspense #MidnightHorrorStation",
       "category": "horror",
@@ -3019,11 +3031,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/109804187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-18%2F409489128-44100-2-fde5a7e347252.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_52"
+      "next_story_id": "roll_sound_goppo_53"
     },
     {
-      "id": "roll_sound_goppo_52",
-      "story_id": "577caecdf630db34",
+      "id": "roll_sound_goppo_53",
+      "story_id": "99239711ee5ac781",
       "story_title": "জঙ্গলের মধ্যে এক রহস্যময়ী রূপসী? | কামিনী (KAMINI) | শরদিন্দু বন্দ্যপাধ্যায় | Bengali Horror Story #sundaysuspense #goppomirerthek #midnighthorrorstation",
       "title": "জঙ্গলের মধ্যে এক রহস্যময়ী রূপসী? | কামিনী (KAMINI) | শরদিন্দু বন্দ্যপাধ্যায় | Bengali Horror Story #sundaysuspense #goppomirerthek #midnighthorrorstation",
       "category": "horror",
@@ -3031,11 +3043,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/109437253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-9%2F408959088-44100-2-85302959b89a1.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_53"
+      "next_story_id": "roll_sound_goppo_54"
     },
     {
-      "id": "roll_sound_goppo_53",
-      "story_id": "63c70f30a681a0b7",
+      "id": "roll_sound_goppo_54",
+      "story_id": "aa3b560a26e8faf0",
       "story_title": "PUJO SPECIAL -Mahalaya (মহালয়া) | Samman Roy | Romantic Audio Story | প্রেমের গল্প",
       "title": "PUJO SPECIAL -Mahalaya (মহালয়া) | Samman Roy | Romantic Audio Story | প্রেমের গল্প",
       "category": "horror",
@@ -3043,11 +3055,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/108565224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-20%2F407824321-44100-2-0a161b3e55a65.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_54"
+      "next_story_id": "roll_sound_goppo_55"
     },
     {
-      "id": "roll_sound_goppo_54",
-      "story_id": "4fddc0e2be2d89ac",
+      "id": "roll_sound_goppo_55",
+      "story_id": "e6e273222cda4f7c",
       "story_title": "Agatha Christie | THE VEILED LADY | গোয়েন্দা রহস্য গল্প | Hercule Poirot | Detective Audio Story #sundaysuspense",
       "title": "Agatha Christie | THE VEILED LADY | গোয়েন্দা রহস্য গল্প | Hercule Poirot | Detective Audio Story #sundaysuspense",
       "category": "horror",
@@ -3055,11 +3067,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/107879489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F406949750-44100-2-4a8b7b85a8109.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_55"
+      "next_story_id": "roll_sound_goppo_56"
     },
     {
-      "id": "roll_sound_goppo_55",
-      "story_id": "64047bf2ff00464e",
+      "id": "roll_sound_goppo_56",
+      "story_id": "c23f22fac10161a4",
       "story_title": "DREAM STORY (স্বপ্ন কাহিনী) - Abridged Version | Arthur Schnitzler | অনুবাদ গল্প | ইয়োরোপীয় সাহিত্য #suspensestory",
       "title": "DREAM STORY (স্বপ্ন কাহিনী) - Abridged Version | Arthur Schnitzler | অনুবাদ গল্প | ইয়োরোপীয় সাহিত্য #suspensestory",
       "category": "horror",
@@ -3067,11 +3079,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/107199385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F406093405-44100-2-7523226b5530f.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_56"
+      "next_story_id": "roll_sound_goppo_57"
     },
     {
-      "id": "roll_sound_goppo_56",
-      "story_id": "faa7f5e59e150b7f",
+      "id": "roll_sound_goppo_57",
+      "story_id": "19327553b1516251",
       "story_title": "শিমুলতলার মাধবী লজ (Shimultalar Madhabi Lodge) | গা ছমছমে ভূতের গল্প | ষষ্ঠীপদ চট্টোপাধ্যায় | Anandamela Story collection #sundaysuspense",
       "title": "শিমুলতলার মাধবী লজ (Shimultalar Madhabi Lodge) | গা ছমছমে ভূতের গল্প | ষষ্ঠীপদ চট্টোপাধ্যায় | Anandamela Story collection #sundaysuspense",
       "category": "horror",
@@ -3079,11 +3091,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/106564238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-7%2F405274842-44100-2-d1c344e463dea.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_57"
+      "next_story_id": "roll_sound_goppo_58"
     },
     {
-      "id": "roll_sound_goppo_57",
-      "story_id": "7ce42275c7f38fbf",
+      "id": "roll_sound_goppo_58",
+      "story_id": "7ccad3242d04516a",
       "story_title": "কলকাতায় SHERLOCK HOLMES ?? | নীল তারা (Neel Tara) | রাজশেখর বসু | পরশুরাম | Bengali Audio Story",
       "title": "কলকাতায় SHERLOCK HOLMES ?? | নীল তারা (Neel Tara) | রাজশেখর বসু | পরশুরাম | Bengali Audio Story",
       "category": "horror",
@@ -3091,11 +3103,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/106297421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F404932858-44100-2-be8b4d603670b.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_58"
+      "next_story_id": "roll_sound_goppo_59"
     },
     {
-      "id": "roll_sound_goppo_58",
-      "story_id": "5fe5284065585f35",
+      "id": "roll_sound_goppo_59",
+      "story_id": "4947908448755cdc",
       "story_title": "কালো কুকুর (Kalo Kukur) | অশোক সি | বাংলা ভূতের গল্প | Bengali Horror Audio Story #suspensestories",
       "title": "কালো কুকুর (Kalo Kukur) | অশোক সি | বাংলা ভূতের গল্প | Bengali Horror Audio Story #suspensestories",
       "category": "horror",
@@ -3103,11 +3115,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/105131537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403438566-44100-2-e66db6b339db3.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_59"
+      "next_story_id": "roll_sound_goppo_60"
     },
     {
-      "id": "roll_sound_goppo_59",
-      "story_id": "27cf1c0447116cf8",
+      "id": "roll_sound_goppo_60",
+      "story_id": "7648f1db84b9511a",
       "story_title": "চাঁপাডাঙার বাঁধ (Chapdangar Bandh) | ষষ্ঠীপদ চট্টোপাধ্যায় | Bengali Horror Audio Story | গ্রাম বাংলার ভূতের গল্প",
       "title": "চাঁপাডাঙার বাঁধ (Chapdangar Bandh) | ষষ্ঠীপদ চট্টোপাধ্যায় | Bengali Horror Audio Story | গ্রাম বাংলার ভূতের গল্প",
       "category": "horror",
@@ -3115,11 +3127,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/104658732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-26%2F402834757-44100-2-2f20a0c95b23c.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_60"
+      "next_story_id": "roll_sound_goppo_61"
     },
     {
-      "id": "roll_sound_goppo_60",
-      "story_id": "32a3773c139ea2c0",
+      "id": "roll_sound_goppo_61",
+      "story_id": "cd698bd901ea63cd",
       "story_title": "উৎপীড়িতের প্রতিহিংসা (Utpiriter Protihingsha) - দীনেন্দ্র কুমার রায় | Old Bengali Horror Story | প্রাচীন বাংলা ভূতের গল্প #sundaysuspense",
       "title": "উৎপীড়িতের প্রতিহিংসা (Utpiriter Protihingsha) - দীনেন্দ্র কুমার রায় | Old Bengali Horror Story | প্রাচীন বাংলা ভূতের গল্প #sundaysuspense",
       "category": "horror",
@@ -3127,11 +3139,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/104611200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-25%2F402774108-44100-2-e43eeb80d640d.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_61"
+      "next_story_id": "roll_sound_goppo_62"
     },
     {
-      "id": "roll_sound_goppo_61",
-      "story_id": "feafa2eea894abfb",
+      "id": "roll_sound_goppo_62",
+      "story_id": "e78c7b8197968987",
       "story_title": "Maya (মায়া) By Bibhutibhushan Bandyopadhyay । Sunday Suspense Horror | গ্রাম বাংলার ভূতের গল্প",
       "title": "Maya (মায়া) By Bibhutibhushan Bandyopadhyay । Sunday Suspense Horror | গ্রাম বাংলার ভূতের গল্প",
       "category": "horror",
@@ -3139,11 +3151,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/104395554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-20%2F402499722-44100-2-16c4a59988b98.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_62"
+      "next_story_id": "roll_sound_goppo_63"
     },
     {
-      "id": "roll_sound_goppo_62",
-      "story_id": "fa34dec861014692",
+      "id": "roll_sound_goppo_63",
+      "story_id": "117ace7d05a6f9c7",
       "story_title": "রাত তখন ১১ টা (Raat Tokhon 11 ta) | বিমল মিত্র | গ্রাম বাংলার ভূতের গল্প | Bengali Horror Story #sundaysuspense",
       "title": "রাত তখন ১১ টা (Raat Tokhon 11 ta) | বিমল মিত্র | গ্রাম বাংলার ভূতের গল্প | Bengali Horror Story #sundaysuspense",
       "category": "horror",
@@ -3151,11 +3163,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/103706357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-5%2F401633284-44100-2-efb669e870c5b.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_63"
+      "next_story_id": "roll_sound_goppo_64"
     },
     {
-      "id": "roll_sound_goppo_63",
-      "story_id": "70a4bc277c2d0ec6",
+      "id": "roll_sound_goppo_64",
+      "story_id": "dd7bb572d72d7095",
       "story_title": "গঙ্গা যমুনা (Ganga Jamuna) | অবনীন্দ্রনাথ ঠাকুর | বাদশাহি আমলের ভূতের গল্প | Bengali Horror Story #sundaysuspense",
       "title": "গঙ্গা যমুনা (Ganga Jamuna) | অবনীন্দ্রনাথ ঠাকুর | বাদশাহি আমলের ভূতের গল্প | Bengali Horror Story #sundaysuspense",
       "category": "horror",
@@ -3163,11 +3175,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/103457897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-31%2F401318247-44100-2-cdc5039b7a37d.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_64"
+      "next_story_id": "roll_sound_goppo_65"
     },
     {
-      "id": "roll_sound_goppo_64",
-      "story_id": "6ace1818b4d9cd27",
+      "id": "roll_sound_goppo_65",
+      "story_id": "9ba7c637bb984338",
       "story_title": "পথিকের বন্ধু (Pothiker Bondhu) | বিভূতিভূষণ বন্দ্যোপাধ্যায় | Bengali Horror Audio Story #sundaysuspense",
       "title": "পথিকের বন্ধু (Pothiker Bondhu) | বিভূতিভূষণ বন্দ্যোপাধ্যায় | Bengali Horror Audio Story #sundaysuspense",
       "category": "horror",
@@ -3175,11 +3187,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/103377511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401221025-44100-2-206dd382fb363.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_65"
+      "next_story_id": "roll_sound_goppo_66"
     },
     {
-      "id": "roll_sound_goppo_65",
-      "story_id": "01e16e09a4efc48a",
+      "id": "roll_sound_goppo_66",
+      "story_id": "ad5180f00fa1559d",
       "story_title": "পোড়ো বাড়ি (Poro Bari) ও ডাক বাংলো (Daak Bunglow) | হেমেন্দ্র কুমার রায় স্পেশাল | Bengali Horror Audio Story #SundaySuspense",
       "title": "পোড়ো বাড়ি (Poro Bari) ও ডাক বাংলো (Daak Bunglow) | হেমেন্দ্র কুমার রায় স্পেশাল | Bengali Horror Audio Story #SundaySuspense",
       "category": "horror",
@@ -3187,11 +3199,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/102700138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2F400389151-44100-2-f2c9139fbb179.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_66"
+      "next_story_id": "roll_sound_goppo_67"
     },
     {
-      "id": "roll_sound_goppo_66",
-      "story_id": "79539af048fcc1bc",
+      "id": "roll_sound_goppo_67",
+      "story_id": "70e3cc43bb046c06",
       "story_title": "ফার্স্ট ক্লাস ভূত | প্রমথ চৌধুরী | পুরানো বাংলা ভূতের গল্প | Bengali Horror Audio Story #sundayuspense",
       "title": "ফার্স্ট ক্লাস ভূত | প্রমথ চৌধুরী | পুরানো বাংলা ভূতের গল্প | Bengali Horror Audio Story #sundayuspense",
       "category": "horror",
@@ -3199,11 +3211,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/102586074/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-13%2F400152510-44100-2-76aa98596072e.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_67"
+      "next_story_id": "roll_sound_goppo_68"
     },
     {
-      "id": "roll_sound_goppo_67",
-      "story_id": "0371c080a067cdac",
+      "id": "roll_sound_goppo_68",
+      "story_id": "7768e35af4666e71",
       "story_title": "ছায়া (Chhaya) | Nagendranath Gupta | Bengali Horror Audio Story | গ্রাম বাংলার ভূতের গল্প | Old Bengali Stories | Suspense | Horror #sundaysuspense",
       "title": "ছায়া (Chhaya) | Nagendranath Gupta | Bengali Horror Audio Story | গ্রাম বাংলার ভূতের গল্প | Old Bengali Stories | Suspense | Horror #sundaysuspense",
       "category": "horror",
@@ -3211,11 +3223,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/100670321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606670-44100-2-e3e229dd89ba3.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_68"
+      "next_story_id": "roll_sound_goppo_69"
     },
     {
-      "id": "roll_sound_goppo_68",
-      "story_id": "df836874ae504586",
+      "id": "roll_sound_goppo_69",
+      "story_id": "2d6c2b8d49547ecc",
       "story_title": "জীবিত ও মৃত (Jeebito o Mrito) - রবীন্দ্রনাথ ঠাকুর | Bangla Classic Audio Story | Suspense | Horror #sundaysuspense",
       "title": "জীবিত ও মৃত (Jeebito o Mrito) - রবীন্দ্রনাথ ঠাকুর | Bangla Classic Audio Story | Suspense | Horror #sundaysuspense",
       "category": "horror",
@@ -3223,11 +3235,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/101804692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-26%2F399132933-44100-2-cd4f3e43ae2e1.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_69"
+      "next_story_id": "roll_sound_goppo_70"
     },
     {
-      "id": "roll_sound_goppo_69",
-      "story_id": "369ac1db599f0a54",
+      "id": "roll_sound_goppo_70",
+      "story_id": "d897f7bee115a734",
       "story_title": "কঙ্কাল | Horror | Guy de Maupassant | Was It A Dream? | La Nuit | Bengali Audio Story | ভূতের গল্প | অনুবাদ গল্প #sundaysuspense",
       "title": "কঙ্কাল | Horror | Guy de Maupassant | Was It A Dream? | La Nuit | Bengali Audio Story | ভূতের গল্প | অনুবাদ গল্প #sundaysuspense",
       "category": "horror",
@@ -3235,11 +3247,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/100616086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2F397538308-44100-2-9862c22607e16.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_70"
+      "next_story_id": "roll_sound_goppo_71"
     },
     {
-      "id": "roll_sound_goppo_70",
-      "story_id": "a7ef2e3a3482bd7e",
+      "id": "roll_sound_goppo_71",
+      "story_id": "4406e3195c2f1ed6",
       "story_title": "শার্লক হোমস (Sherlock Holmes)। The Adventure of GLORIA SCOTT | গ্লোরিয়া স্কট জাহাজের কাহিনী । Sir Arthur Conan Doyle | First Case of Sherlock Holmes #sundaysuspense #goppomirerthek",
       "title": "শার্লক হোমস (Sherlock Holmes)। The Adventure of GLORIA SCOTT | গ্লোরিয়া স্কট জাহাজের কাহিনী । Sir Arthur Conan Doyle | First Case of Sherlock Holmes #sundaysuspense #goppomirerthek",
       "category": "horror",
@@ -3247,11 +3259,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/101386854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-16%2F398524848-44100-2-9b8015e08abd7.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_71"
+      "next_story_id": "roll_sound_goppo_72"
     },
     {
-      "id": "roll_sound_goppo_71",
-      "story_id": "67cc99177f3be9e7",
+      "id": "roll_sound_goppo_72",
+      "story_id": "7cef3905332470c5",
       "story_title": "যমরাজ ও সৈনিক (Jomraj o Shoinik) | রুশ দেশের উপকথা | Russian Folk Tales | বাংলা ভৌতিক গল্প | Horror Comedy | Bengali Audio Stories | অনুবাদ গল্প #sundaysuspense",
       "title": "যমরাজ ও সৈনিক (Jomraj o Shoinik) | রুশ দেশের উপকথা | Russian Folk Tales | বাংলা ভৌতিক গল্প | Horror Comedy | Bengali Audio Stories | অনুবাদ গল্প #sundaysuspense",
       "category": "horror",
@@ -3259,11 +3271,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/100390228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-26%2F397252265-44100-2-afec1abf95c45.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_72"
+      "next_story_id": "roll_sound_goppo_73"
     },
     {
-      "id": "roll_sound_goppo_72",
-      "story_id": "ebbb3d2f0882ee63",
+      "id": "roll_sound_goppo_73",
+      "story_id": "d3ae9d9f5902e1e1",
       "story_title": "একটি ভৌতিক কাহিনী | Ekti Bhoutik Kahini | Prabhat Kumar Mukhopadhyay | গ্রাম বাংলার ভূতের গল্প | Bengali Horror Audio Story #sundaysuspense",
       "title": "একটি ভৌতিক কাহিনী | Ekti Bhoutik Kahini | Prabhat Kumar Mukhopadhyay | গ্রাম বাংলার ভূতের গল্প | Bengali Horror Audio Story #sundaysuspense",
       "category": "horror",
@@ -3271,11 +3283,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/100554335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F397480741-44100-2-14841b9c96a8c.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_73"
+      "next_story_id": "roll_sound_goppo_74"
     },
     {
-      "id": "roll_sound_goppo_73",
-      "story_id": "84c9c6bccc0f9fdf",
+      "id": "roll_sound_goppo_74",
+      "story_id": "1fc8fbc950722b7a",
       "story_title": "ডেগন ( Dagon) - H. P. Lovecraft | লাভক্র্যাফটিয়ান হরর | Horror | অনুবাদ ভয়ের গল্প | Bengali Horror Audio Story | Lovecraftian Horror | Sunday Suspense Stories | বিশ্বসেরা ভূতের গল্প",
       "title": "ডেগন ( Dagon) - H. P. Lovecraft | লাভক্র্যাফটিয়ান হরর | Horror | অনুবাদ ভয়ের গল্প | Bengali Horror Audio Story | Lovecraftian Horror | Sunday Suspense Stories | বিশ্বসেরা ভূতের গল্প",
       "category": "horror",
@@ -3283,11 +3295,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/100218421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-22%2F397034733-44100-2-37c1351391fa7.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_74"
+      "next_story_id": "roll_sound_goppo_75"
     },
     {
-      "id": "roll_sound_goppo_74",
-      "story_id": "3d9a974d4290a43f",
+      "id": "roll_sound_goppo_75",
+      "story_id": "375e71c3406fd9bc",
       "story_title": "কঙ্কালের টঙ্কার (Konkaler Tonkar) | গ্রাম বাংলার ভূতের গল্প | Horror Comedy | Monilal Gangopadhyay | Bengali Horror Audio Story | বিংশ শতকের শ্রেষ্ঠ ভূতের গল্প | ভয়ের গল্প | Suspense #sundaysuspense",
       "title": "কঙ্কালের টঙ্কার (Konkaler Tonkar) | গ্রাম বাংলার ভূতের গল্প | Horror Comedy | Monilal Gangopadhyay | Bengali Horror Audio Story | বিংশ শতকের শ্রেষ্ঠ ভূতের গল্প | ভয়ের গল্প | Suspense #sundaysuspense",
       "category": "horror",
@@ -3295,11 +3307,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/100042640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-19%2F396844895-44100-2-9ca1984f7da18.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_75"
+      "next_story_id": "roll_sound_goppo_76"
     },
     {
-      "id": "roll_sound_goppo_75",
-      "story_id": "1ae900928e56fdcf",
+      "id": "roll_sound_goppo_76",
+      "story_id": "e22843a184e1b33d",
       "story_title": "রুম নং ৭ | ROOM NO. 7 | Bram Stoker | DRACULA Type Horror Story | বিশ্বসেরা ভূতের গল্প | Bengali Horror Story | বিদেশী ভূতের গল্প | Bengali Horror Audio Story #sundaysuspense",
       "title": "রুম নং ৭ | ROOM NO. 7 | Bram Stoker | DRACULA Type Horror Story | বিশ্বসেরা ভূতের গল্প | Bengali Horror Story | বিদেশী ভূতের গল্প | Bengali Horror Audio Story #sundaysuspense",
       "category": "horror",
@@ -3307,11 +3319,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/99872317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-14%2F396597076-44100-2-3a3f39b9da72.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_76"
+      "next_story_id": "roll_sound_goppo_77"
     },
     {
-      "id": "roll_sound_goppo_76",
-      "story_id": "20c6b5782c557e1a",
+      "id": "roll_sound_goppo_77",
+      "story_id": "080b9a9abd16d68c",
       "story_title": "নরক এক্সপ্রেস । NOROK EXPRESS | সৌরীন্দ্রমোহন মুখোপাধ্যায় । বাংলা ভূতের গল্প । ভয়ের গল্প । Bengali Horror Audio Story #sundaysuspense",
       "title": "নরক এক্সপ্রেস । NOROK EXPRESS | সৌরীন্দ্রমোহন মুখোপাধ্যায় । বাংলা ভূতের গল্প । ভয়ের গল্প । Bengali Horror Audio Story #sundaysuspense",
       "category": "horror",
@@ -3319,11 +3331,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/99241132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-2%2F395803231-44100-2-ef9cf4c76ac65.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_77"
+      "next_story_id": "roll_sound_goppo_78"
     },
     {
-      "id": "roll_sound_goppo_77",
-      "story_id": "f1c2b2fae25f8567",
+      "id": "roll_sound_goppo_78",
+      "story_id": "14f93d336bb5dcce",
       "story_title": "শার্লক হোমস । THE YELLOW FACE | হলদে মুখের কাহিনী । Sir Arthur Conan Doyle । বাংলা গোয়েন্দা গল্প | Bengali Detective Audio Story | Thriller Stories #sundaysuspense",
       "title": "শার্লক হোমস । THE YELLOW FACE | হলদে মুখের কাহিনী । Sir Arthur Conan Doyle । বাংলা গোয়েন্দা গল্প | Bengali Detective Audio Story | Thriller Stories #sundaysuspense",
       "category": "horror",
@@ -3331,11 +3343,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/99179119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-28%2F395727573-44100-2-30d4c67a2882d.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_78"
+      "next_story_id": "roll_sound_goppo_79"
     },
     {
-      "id": "roll_sound_goppo_78",
-      "story_id": "f5f79eea2d975fa6",
+      "id": "roll_sound_goppo_79",
+      "story_id": "aef00a5c423627e8",
       "story_title": "TAAN (টান) | বিভূতিভূষণ বন্দ্যোপাধ্যায় | বাংলা ভূতের গল্প | Bengali Horror Audio Story | Ghost Stories | Bengali Horror Audio Story #sundaysuspense",
       "title": "TAAN (টান) | বিভূতিভূষণ বন্দ্যোপাধ্যায় | বাংলা ভূতের গল্প | Bengali Horror Audio Story | Ghost Stories | Bengali Horror Audio Story #sundaysuspense",
       "category": "horror",
@@ -3343,11 +3355,11 @@
       "part_number": null,
       "audio_url": "https://anchor.fm/s/101ce3cd4/podcast/play/99168346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-28%2F395713383-44100-2-1fe74455faab9.mp3",
       "next_episode_id": null,
-      "next_story_id": "roll_sound_goppo_79"
+      "next_story_id": "roll_sound_goppo_80"
     },
     {
-      "id": "roll_sound_goppo_79",
-      "story_id": "1d8a6cd26334e0dd",
+      "id": "roll_sound_goppo_80",
+      "story_id": "fca1569fd4bc1bb5",
       "story_title": "BADORER PA (বাঁদরের পা) | BAARI (বাড়ি) | রাতের গপ্পো | বাংলা ভূতের গল্প | হেমেন্দ্রকুমার রায় | Bengali Horror Audio Story #sundaysuspense",
       "title": "BADORER PA (বাঁদরের পা) | BAARI (বাড়ি) | রাতের গপ্পো | বাংলা ভূতের গল্প | হেমেন্দ্রকুমার রায় | Bengali Horror Audio Story #sundaysuspense",
       "category": "horror",
